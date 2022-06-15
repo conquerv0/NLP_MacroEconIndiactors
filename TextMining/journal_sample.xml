@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1919515746</GOID>
+   
+   <Obj>
+      <SourceRollupType>Scholarly Journals</SourceRollupType>
+      <ObjectTypes>
+         <other>Journal Article</other>
+         <mstar>Article</mstar>
+         <mstar>Feature</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Transcriptomic and metabolomic profiles of Chinese citrus fly, Bactrocera minax (Diptera: Tephritidae), along with pupal development provide insight into diapause program</Title>
+      </TitleAtt>
+      <NumericDate>2017-07-01</NumericDate>
+      <StartDate>2017-07-01</StartDate>
+      <EndDate>2017-07-31</EndDate>
+      <AlphaDate>Jul 2017</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2017 Wang et al. This is an open access article distributed under the terms of the Creative Commons Attribution License: http://creativecommons.org/licenses/by/4.0/ (the “License”), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>e0181033</StartPage>
+         <DocSection>Research Article</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICAPLOS_PLBN_20170712_v12i7a0181033</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICAPLOS_PLBN_20170712_v12i7a0181033</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <DOI>10.1371/journal.pone.0181033</DOI>
+         </ObjectID>
+         <ObjectID>
+            <PMID>174835</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_174835_Jul2017_12_7</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Wang, Jia</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jia</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jia Wang</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Wang</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jia Wang</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Fan, Huan</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Huan</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Huan Fan</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Fan</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Huan Fan</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <DisplayForm>Ke-Cai Xiong</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>Ke-Cai Xiong</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="4">
+            <Author>
+               <NormalizedDisplayForm>Ying-Hong, Liu</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Liu</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Liu Ying-Hong</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Ying-Hong</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ying-Hong Liu</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <FlexTerm TermSource="ABI">
+            <TitleKeyword>Drug metabolism</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="ABI">
+            <TitleKeyword>Diapause</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="ABI">
+            <TitleKeyword>Metabolic pathways</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="ABI">
+            <TitleKeyword>Xenobiotic metabolism</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="ABI">
+            <TitleKeyword>Cell metabolism</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="ABI">
+            <TitleKeyword>DNA metabolism</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="ABI">
+            <TitleKeyword>Metabolic processes</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="ABI">
+            <TitleKeyword>Nitrogen metabolism</TitleKeyword>
+         </FlexTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Cold</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Respiration</GenSubjValue>
+         </GenSubjTerm>
+         <ClassTerm ClassTermType="LifeScience" TermSource="Editorial" TermVocab="CCENTO">         
+            <ClassCode>Z 05320</ClassCode>
+            <ClassExpansion>Physiology, Anatomy, and Biochemistry</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Digestive system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Metabolism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Citrus fruits</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Digestive system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nuclear magnetic resonance--NMR</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Developmental stages</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Trehalose</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Trehalose</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Molecular modelling</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Polymerase chain reaction</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Respiratory rate</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Scientific imaging</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Metabolites</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Metabolism</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="Editorial" TermVocab="TAXONOMIC">
+            <Taxonomic>Bactrocera minax</Taxonomic>
+         </Term>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Chromatography</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Metabolites</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Magnetic resonance spectroscopy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Endocrine system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Developmental stages</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mass spectrometry</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Resonance</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Proline</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Gene expression</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Metabolites</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Endocrine system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Insects</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>China</Geographic>
+         </Term>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Gene expression</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Metabolism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Insects</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Metabolites</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Diapause</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Proline</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Spectroscopic analysis</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Nuclear magnetic resonance--NMR</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Nuclear magnetic resonance--NMR</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="MGA">
+            <GenSubjValue>Magnetic resonance</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="MGA">
+            <GenSubjValue>Spectroscopy</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Editorial(ECMS)" WordCount="192">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The Chinese citrus fly, &lt;i&gt;Bactrocera minax &lt;/i&gt;(Enderlein), is a devastating citrus pest in Asia. This univoltine insect enters obligatory pupal diapause in each generation, while little is known about the course and the molecular mechanisms of diapause. In this study, the course of diapause was determined by measuring the respiratory rate throughout the pupal stage. In addition, the variation of transcriptomic and metabolomic profiles of pupae at five developmental stages (pre-, early-, middle-, late-, and post-diapause) were evaluated by next-generation sequencing technology and 1H nuclear magnetic resonance spectroscopy (NMR), respectively. A total of 4,808 genes were significantly altered in ten pairwise comparisons, representing major shifts in metabolism and signal transduction as well as endocrine system and digestive system. Gene expression profiles were validated by qRT-PCR analysis. In addition, 48 metabolites were identified and quantified by 1H NMR. Nine of which significantly contributed to the variation in the metabolomic profiles, especially proline and trehalose. Moreover, the samples collected within diapause maintenance (early-, middle-, and late-diapause) only exhibited marginal transcriptomic and metabolomic variation with each other. These findings greatly improve our understanding of &lt;i&gt;B. minax &lt;/i&gt;diapause and lay the foundation for further pertinent studies.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="7054" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;About the Authors:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Jia Wang &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;    &lt;/p&gt;
+&lt;p&gt;Roles Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review &amp;amp; editing&lt;/p&gt;
+&lt;p&gt;* E-mail: aimarjia@126.com&lt;/p&gt;
+&lt;p&gt;Affiliation: Institute of Entomology, College of Plant Protection, Southwest University, Chongqing, China&lt;/p&gt;
+&lt;p&gt;ORCID http://orcid.org/0000-0002-5803-5113&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Huan Fan &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;    &lt;/p&gt;
+&lt;p&gt;Roles Data curation, Investigation, Methodology, Validation&lt;/p&gt;
+&lt;p&gt;Affiliation: Institute of Entomology, College of Plant Protection, Southwest University, Chongqing, China&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Ke-Cai Xiong &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;    &lt;/p&gt;
+&lt;p&gt;Roles Data curation, Formal analysis, Investigation, Validation&lt;/p&gt;
+&lt;p&gt;Affiliation: Institute of Entomology, College of Plant Protection, Southwest University, Chongqing, China&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Ying-Hong Liu &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;    &lt;/p&gt;
+&lt;p&gt;Roles Funding acquisition, Resources, Supervision&lt;/p&gt;
+&lt;p&gt;Affiliation: Institute of Entomology, College of Plant Protection, Southwest University, Chongqing, China&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Introduction &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Chinese citrus fly, &lt;i&gt;Bactrocera minax&lt;/i&gt; (Enderlein), is a devastating oligophagous pest of citrus plants in the temperate areas of Asia, especially in China [1–3]. Larval feeding can cause serious yield losses [4–6], as such this pest has become a focus of interest in citrus-growing regions in China. Given the economic importance of &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt;, a number of prior studies have been carried out [7–13]. However, the long-lasting pupal stage in which diapause occurs has severely hindered the laboratory-rearing of this pest and restricted further scientific research.&lt;/p&gt;
+&lt;p&gt;Diapause is a life history stage that allows insects to mitigate acute environmental stresses [14,15]. Some univoltine insects enter obligatory diapause at specific stages in each generation, but require no token stimuli for diapause induction and preparation [14,16]. Similarly, univoltine tephritid fly &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; also enters the pupal diapause to overwinter. However, the course of diapause has yet to be reported. Generally, diapause in insects features intense metabolic depression. Respiratory rate is therefore a useful marker for determining diapause initiation and termination [17]. For example, the precise time of diapause termination of &lt;i&gt;Rhagoletis pomonella&lt;/i&gt; was identified based on the fitted trajectory of metabolic rate estimated by CO&lt;sub&gt;2&lt;/sub&gt; production. Subsequently, samples during the diapause termination were collected to investigate the molecular mechanisms underlying diapause termination and resumption of development [16]. By determining the course of diapause in &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; through respiratory rate measurement, several other investigations into diapause can be conducted.&lt;/p&gt;
+&lt;p&gt;Next-generation sequencing has widely been used to characterize genomes and transcriptomes. This approach has facilitated studies on biological processes in organisms, such as the discovery of differentially expressed genes (DEGs) [18–20]. A &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; transcriptome that was previously assembled and annotated can provide a foundation for further DEG analysis [21]. Similarly, metabolomic profiling has increasingly been used worldwide to investigate the qualitative and quantitative variation of metabolites in tissues and biofluids in response to biotic or abiotic factors [22]. The most widely used methods for metabolomic analysis are &lt;sup&gt;1&lt;/sup&gt;H nuclear magnetic resonance spectroscopy (NMR), gas-chromatography coupled with mass spectrometry (GC-MS), and liquid chromatography coupled with mass spectrometry (LC-MS) [23,24]. Of these methods, NMR has significant advantages, including near-universal detection of metabolites, easy quantitation, high reproducibility, minimal sample preparation, and rapidity [25,26]. So far, metabolomic analysis has been performed in many fields such as diagnostics [27], pharmacology [28], microbiology [29], and nutrition [30]. Recently, a limited number of metabolomic analyses have also been conducted on insect diapause [31–33].&lt;/p&gt;
+&lt;p&gt;In this study, the respiratory rate of &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; was periodically measured throughout the pupal stage in order to clarify the course of diapause. To better understand the molecular mechanisms underlying diapause, high-throughput next-generation sequencing technology and &lt;sup&gt;1&lt;/sup&gt;H NMR analysis were performed to analyze respectively the transcriptomic and metabolomic profiles of &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; at five pupal developmental stages. The results have revealed variations in the physiological pathways utilized throughout the course of diapause and provided new insights into diapause programming.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Materials and methods &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Ethics statement &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The owner of the orchard in Wulong County, Chongqing Municipality, China, provided permission to collect the samples for our scientific research.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Insect rearing &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fallen oranges infested with larvae were brought back to the lab from an orchard (N 29&lt;sup&gt;o&lt;/sup&gt; 34.373', E 107&lt;sup&gt;o&lt;/sup&gt; 54.564') in Wulong County, Chongqing Municipality, China. Third-instar larvae (15~18 mm in length) collected from the oranges were placed over sand in plastic dishes and allowed to pupate. All dishes were placed outdoors in the nylon insect rearing cage under natural temperature and light/dark cycle in the Beibei district, Chongqing Municipality, China. The sand was changed weekly and regularly watered to maintain moisture.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Measurement of respiratory rate of pupae &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The respiratory rate of each group was measured 46 times from pupation to the first adult emergence, using a self-designed portable respirometry system with a high-accuracy infrared CO&lt;sub&gt;2&lt;/sub&gt; detector (S1 Fig Wosaite, Shenzhen, China). Prior to measuring the pupal respiratory rate, thirty pupae were randomly selected and divided into three groups. Each group was weighed and placed in a 50 mL sealed chamber for 2 h and the CO&lt;sub&gt;2&lt;/sub&gt; concentration in the chamber was recorded. The respiratory rate of pupae was calculated by:(1)Where &lt;i&gt;R&lt;/i&gt; is the calculated respiratory rate in μL CO&lt;sub&gt;2&lt;/sub&gt;/mg/h, &lt;i&gt;C&lt;/i&gt; is the raised CO&lt;sub&gt;2&lt;/sub&gt; concentration in μL/L, &lt;i&gt;V&lt;/i&gt; is the volume of the sealed chamber in L, &lt;i&gt;M&lt;/i&gt; is the weight of the pupae in mg, and &lt;i&gt;T&lt;/i&gt; is the duration of CO&lt;sub&gt;2&lt;/sub&gt; measurement in h. Visual inspection of respiratory rate data strongly suggested an exponential decay followed by a logistic increase and an exponential increase, based on which an eight parameter non-linear model describing this trajectory was constructed:(2)Where &lt;i&gt;R&lt;/i&gt; is the respiratory rate, &lt;i&gt;t&lt;/i&gt; is the time in days since investigation, &lt;i&gt;α&lt;/i&gt; is the respiratory rate at the starting point, &lt;i&gt;β&lt;/i&gt; is the respiratory rate at the transition between exponential decay and logistic increase, &lt;i&gt;k&lt;/i&gt; is the rate constant, &lt;i&gt;γ&lt;/i&gt; is the respiratory rate at the transition between logistic and exponential increase, &lt;i&gt;a&lt;/i&gt; is the constant, &lt;i&gt;c&lt;/i&gt; is the scaling parameter, &lt;i&gt;r&lt;/i&gt; and &lt;i&gt;b&lt;/i&gt; are parameters that determine the timing of two transitions, respectively. The non-linear model was fitted using GraphPad Prism 5 and Microsoft Excel 2010, and the goodness of fit was determined by χ&lt;sup&gt;2&lt;/sup&gt; test using Excel 2010. The initiation, maintenance, and termination of pupal diapause were determined in relation to the fitted model.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Insect sample collection &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Samples were collected at five time points, pre-diapause (PreD), early-diapause (ED), middle-diapause (MD), late-diapause (LD), and post-diapause (PD) (Fig 1), as determined by respiratory rate. Prior to sample collection, all pupae were reared separately in 15 dishes, three dishes for each of the five developmental stages, under the conditions described above. At each sampling point, all of the pupae in the four dishes were collected and stored separately in liquid nitrogen for subsequent transcriptomic and metabolomic analysis.&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Fig 1.  Non-linear regression of respiratory rate of &lt;i&gt;Bactrocera minax&lt;/i&gt; pupae.&lt;/p&gt;
+&lt;p&gt;Arrows indicate the time points when the samples were collected for transcriptomic and metabolomic analysis.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.g001&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; RNA isolation, library construction and Illumina sequencing &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Total RNA from each pupa was isolated using TRIZOL Reagent (Life technologies, Carlsbad, CA, US) according to the manufacturer's instructions. The quantity and quality of total RNA was assessed with a NanoVue spectrophotometer (GE Healthcare Bio-Science, Uppsala, Sweden) and 1% agarose gel electrophoresis, respectively. The cDNA libraries were constructed using TruSeq RNA Sample Preparation Kit (Illumina, San Diego, CA, USA) following the manufacturer’s protocol. Briefly, oligo (dT) magnetic beads were used to purify poly (A) mRNA. The resulting mRNA was mixed with fragmentation buffer and cleaved into short fragments. The first-strand cDNAs were generated with random hexamer primers. Second-strand cDNAs were synthesized using DNA polymerase I (New England BioLabs, Ipswich, MA) and RNase H (Invitrogen, Carlsbad, CA). These cDNA fragments were end-repaired, followed by single nucleotide A (adenine) addition and litigation of adaptors. After purification with AMPureXP beads, the ligated products were amplified by PCR to generate cDNA libraries, which were sequenced on an Illumina NextSeq500 (Illumina). The raw reads were filtered to remove adaptor sequences, low-quality sequences with unknown nucleotides N, reads shorter than 50 bp, and reads with more than 20% low quality bases, using the NGS QC toolkit package [34]. The clean reads were assessed for quality using FastQC (http://www.bioinformatiH2.babraham.ac.uk/projects/fastqc/) and then mapped to our previously generated transcriptome reference database [21]. Three biological replicates were generated for each developmental stage.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Discovery of differentially expressed genes and KEGG pathway analysis &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gene expression levels were determined by reads per kb of exon model per million mapped reads (RPKM) values [35], which were calculated based on the number of reads mapping to each unigene obtained previously [21]. The DEseq package was used to identify the DEGs [36]. Unigenes with &lt;i&gt;P&lt;/i&gt; value &amp;lt; 0.05 and fold change value &amp;gt; 2 in each comparison were considered to be significantly differentially expressed genes. Benjamini-Hochberg correction was then conducted to reduce the false discovery rate (FDR). DEG cluster analysis was performed using cluster [37] and visualized by Java Tree view [38]. Principal component analysis (PCA) was carried out using pcaMethods [39] to evaluate the variation in gene expression profiles among samples and visualize the clustering of samples. Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways enrichment analyses were conducted using KEGG mapper to categorize the DEGs (http://www.genome.jp/kegg/tool/map_pathway2.html), and the &lt;i&gt;P&lt;/i&gt; value &amp;lt; 0.01 was set as a threshold to determine the significantly regulated pathway in each comparison.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Quantitative real-time PCR (qRT-PCR) verification &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;qRT-PCR was performed to verify the accuracy of the DEG analysis. Total RNA from the five pupal stages described above was extracted using TRIZOL Reagent. The first-strand cDNA was synthesized using PrimeScript™ RT Master Mix (Perfect Real Time) Kit (Takara, Shiga, Japan). Twenty-one pairs of specific primers were designed to amplify the genes selected from multiple comparison (S1 Table). &lt;i&gt;Ubiquitin&lt;/i&gt; was used as a reference gene for normalization [40]. qRT-PCR was conducted in 25 μL volumes containing 12.5 μL SYBR&lt;sup&gt;®&lt;/sup&gt; Premix Ex Taq II (Takara), 2 μL primers (10 μM), 1μL cDNA, and 9.5 μL ddH&lt;sub&gt;2&lt;/sub&gt;O, using a CFX96™ Real-Time PCR Detection System thermal cycler (BIO-RAD, Hercules, CA, USA). Amplification conditions were as follows: initial denaturation at 95°C for 30s; followed by 40 cycles of denaturation at 95°C for 5s, 60°C for 30s. Pearson’s r correlation coefficient was calculated to evaluate the correlation between the qRT-PCR and DEG data. Three biological and three technical replicates were performed for each gene.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; &lt;sup&gt;1&lt;/sup&gt;H NMR spectroscopy &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;About 500 mg pupae were ground in liquid nitrogen and lyophilized in a vacuum freeze dryer. More than 50 mg lyophilized sample was weighed and resuspended in 1 ml water. After vortexing for 1 min, samples were sonicated and centrifuged at 13000 rpm at 4°C for 10 min. The supernatant was filtered using 3-kDa microcentrifuge filters to remove proteins and insoluble impurities. A 450 μL filtrate was then mixed with 50 μL DSS standard solution (4.088 mM), an internal NMR chemical shift standard, for subsequent NMR analysis. One-dimensional NMR spectra of samples were acquired using a Bruker AV III 600 MHz spectrometer (Bruker Biospin Ltd., Coventry, UK) equipped with an inverse cryoprobe, operating at an NMR frequency of 600.13 MHz, and a data acquisition temperature of 298 K. A total of 64 transients were acquired in 32,768 data points using a spectral width of 8000 Hz. The free induction decay (FID) signal was multiplied by an exponential window function with 1 Hz line broadening factor before Fourier transform. Metabolites were assigned by Chenomx (Chenomx Inc., Edmonton, Canada) on the basis of chemical shifts, coupling constants, and relative intensities, against a Chenomx database that contained the unique NMR spectra of each standard compound. The absolute concentration of each compound was normalized to the sample weight. Five biological replicates were set for each selected developmental stage. PCA and partial-least squares discriminant analysis (PLS-DA) [41] were carried out to evaluate the variation in metabolite profiles among developmental stages and to visualize sample clustering. Based on PLS-DA analysis, the Variable Importance in Projection (VIP) scores were obtained to indicate the metabolites that significantly contributed to the intergroup differentiation. The concentrations of nine identified metabolites (VIP score &amp;gt; 1) at five developmental stages were compared using a non-parametric Kruskal-Wallis test, followed by Bonferroni correction [42]. The analyses were performed using the statistical package STATISTICA version 10 (StatSoft Inc. 2011, Tulsa, OK).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Results &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Respiratory rate trajectory &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The model describing the respiratory rate trajectory was fitted well according to Chi-square test (&lt;i&gt;χ&lt;/i&gt;&lt;sup&gt;&lt;i&gt;2&lt;/i&gt;&lt;/sup&gt; = 0.0824, &lt;i&gt;d&lt;/i&gt;.&lt;i&gt;f&lt;/i&gt;. = 44, &lt;i&gt;P&lt;/i&gt; &amp;gt; 0.05). The exponential decay, logistic increase, and exponential increase in this model represent periods of diapause preparation, diapause termination, and preparation for adult emergence, respectively (Fig 1). According to this model, respiration was suppressed after pupation and reached its lowest level approximately 40 days later, when pupae had completely entered diapause. Approximately two months after initiation, diapause terminated and pupal development resumed with the respiratory rate increasing by 39-fold. Post-diapause development lasted for over a month until adults started to emerge.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Identification of differentially expressed genes (DEGs) among the differing developmental stages &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fifteen mRNA libraries, three replicates for each developmental stage, were sequenced. At least 18 million raw reads were generated in each library (S2 Table). All raw data have been deposited in the GeneBank Sequence Read Archive (Accession number: SRP083788). After removing low quality reads, the number of clean reads ranged from 18.37 million to 51.87 million, and the proportion of useful reads exceed 97% in all libraries. Gene expression profiles at different pupal developmental stages were calculated to identify DEGs. A total of 4,808 genes were significantly differentially expressed in ten pairwise comparisons (Fig 2 and S2 Fig), whereas the number decreased to 3,290 after Benjamini-Hochberg correction to reduce FDR (S3 Fig). Interestingly, samples collected within the maintenance of diapause (ED, MD, and LD) did not show intense variation in gene expression profiles compared to each other, with only a few genes altered. The large overlap of ED, MD, and LD in the PCA plot also showed no obvious difference in gene expression profiles among these three stages (Fig 3). However, a distinct separation in the PCA plot and a number of DEGs between PreD/PD and the other time points revealed large variations in the gene expression profiles between these two stages and others (Figs 2 and 3). All DEGs were divided into 6 groups with each exhibiting a representative expression pattern. Genes in cluster 1 and 3 were highly expressed in PreD and PD, respectively, whereas genes in cluster 4 were lowly expressed in PreD. Throughout diapause maintenance, the expression of genes in cluster 2 was suppressed, whereas those in cluster 5 and 6 were activated (Fig 4).&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Fig 2.  Number of significantly differentially expressed genes (DEGs) in each pairwise comparison of different &lt;i&gt;Bactrocera minax&lt;/i&gt; pupal stages.&lt;/p&gt;
+&lt;p&gt;PreD, pre-diapause. ED, early-diapause. MD, middle-diapause. LD, late-diapause. PD, post-diapause.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.g002&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Fig 3.  Principal component analysis (PCA) plot of gene expression profile at different &lt;i&gt;Bactrocera minax&lt;/i&gt; pupal stages.&lt;/p&gt;
+&lt;p&gt;PreD, pre-diapause. ED, early-diapause. MD, middle-diapause. LD, late-diapause. PD, post-diapause.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.g003&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Fig 4.  Cluster of differentially expressed genes (DEGs) among the different &lt;i&gt;Bactrocera minax&lt;/i&gt; pupal stages.&lt;/p&gt;
+&lt;p&gt;Each column represents a sample, and each row represents a differentially expressed gene. Green and red color gradients indicate a decrease or increase in expression, respectively. PreD, pre-diapause. ED, early-diapause. MD, middle-diapause. LD, late-diapause. PD, post-diapause.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.g004&lt;/p&gt;
+&lt;p&gt;To understand the potential functions of identified DEGs, KEGG pathway enrichment for each pairwise comparison was performed at &lt;i&gt;P&lt;/i&gt; value &amp;lt; 0.01. Pathways involved in human disease were excluded after analysis. The results showed that no KEGG pathway was enriched in pairwise comparisons among the three groups from maintenance of diapause, except for “Alanine, aspartate, and glutamate metabolism” between MD and LD. Most of the significantly altered pathways in other comparisons were related to “Carbohydrate metabolism”, “Lipid metabolism”, “Amino acid metabolism”, “Biosynthesis of other secondary metabolites”, “Metabolism of cofactors and vitamins”, “Xenobiotics biodegradation and metabolism”, “Signal transduction”, “Endocrine system”, and “Digestive system” (Table 1).&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Table 1.  KEGG pathway analysis of differentially expressed genes among comparisons.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.t001&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Validation of gene expression profiles &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The expression levels of the 21 selected genes were measured by qRT-PCR to validate the DEG analysis. The results showed a strong correlation between the qRT-PCR and DEG data with Pearson’s correlation coefficient &amp;gt; 0.95 (Fig 5), indicating the reliability of using DEG data to investigate temporal-specific gene expression profiles throughout the pupal stage.&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Fig 5.  Correlation analysis of qRT-PCR and differentially expressed gene (DEG) data for selected genes of &lt;i&gt;Bactrocera minax&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.g005&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Metabolomic variation among &lt;i&gt;Bactrocera minax&lt;/i&gt; developmental stages &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A total of 49 metabolites were identified across all samples, including amino acids and their derivatives, organic acids, nucleic acid components, sugars, and others (S4 Fig). After removing citrate, which cannot be precisely quantified due to the effect of pH value, the other 48 metabolite identities were confirmed for subsequent analysis. Both the PCA and PLS-DA plots showed close overlap between the ED, MD, and LD groups, but also showed clear separation between PreD and PD (Fig 6), indicating the metabolomic profiles changed marginally within diapause maintenance, but varied dramatically with initiation and termination of diapause. After VIP score calculation, the top 9 metabolites that contributed the most to the variation of metabolomic profiles (VIP score &amp;gt; 1) were identified (Fig 7A). Significant differences were found in the concentration of nine metabolites across the five developmental stages with non-parametric Krustal-Wallis test (Table 2). Of all these nine metabolites, proline, trehalose, N-acetylglutamate, succinate, glutamate, alanine, and sn-glycero-3-phosphocholine saw significant accumulations within maintenance of diapause; the glutamine concentration was higher in PreD; and the 2-oxoglutarate concentration was higher in PreD but gradually decreased along with development (Fig 7B).&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Fig 6.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Principal component analysis (PCA) plot (A) and partial-least squares discriminant analysis (PLS-DA) plot (B) of metabolite profiles from different &lt;i&gt;Bactrocera minax&lt;/i&gt; pupal stages.&lt;/b&gt; PreD, pre-diapause. ED, early-diapause. MD, middle-diapause. LD, late-diapause. PD, post-diapause.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.g006&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Fig 7.  Metabolomic variation among different &lt;i&gt;Bactrocera minax&lt;/i&gt; pupal stages.&lt;/p&gt;
+&lt;p&gt;A. Variable importance plot showing the metabolites with the highest VIP score. B. Concentration of nine metabolites (VIP score &amp;gt;1) at different &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; pupal stages. Different letters above the bars indicate significant differences determined by Bonferroni correction. PreD, pre-diapause. ED, early-diapause. MD, middle-diapause. LD, late-diapause. PD, post-diapause.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.g007&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;Table 2.  Identification of significantly altered metabolites with non-parametric Krustal-Wallis test.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.t002&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Discussion &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Respiratory rate trajectory &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Metabolic depression is frequently considered a universal characteristic of diapausing insects [16,17,43], hence, the respiratory rate of &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; pupae was measured first to determine the course of diapause. The sensitivity of the CO&lt;sub&gt;2&lt;/sub&gt; detector precluded monitoring respiratory rate of individual &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt;. However, monitoring a group of pupae proved to be feasible as all adults emerged within 8 days (data not shown), indicating synchronization of pupal development. The generated curve identified important developmental landmarks throughout the pupal stage and guided our sample collection (Fig 1). To our knowledge, this is the first endeavor to describe the course of diapause in &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; pupae, which provided the fundamental basis for subsequent transcriptomic and metabolomic analyses in this study.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Gene expression profiles throughout pupal development &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gene expression profiles varied within pupal development, but not much within the maintenance of diapause (Figs 2 and 3). When comparing PreD with others, the most significantly changed KEGG pathways were associated with metabolism, especially the “Pentose and glucuronate interconversions”, “Galactose metabolism”, “Starch and sucrose metabolism”, and “Glycerolipid metabolism” pathways, which were significantly changed in all four comparisons. These variations were consistent with the suppression in respiratory rate described above. When comparing PD with ED/MD, several metabolism-related KEGG pathways significantly changed, probably due to elevation in the metabolic rate after diapause termination. However, when comparing PD with LD, most of the enriched KEGG pathways related to signaling pathways. The “Wnt signaling pathway” and “Hippo signaling pathway—fly” is expected to be responsible for cell proliferation and differentiation in post-diapause development [44,45]. The “insulin secretion” pathway may also be involved in the insulin signaling pathway which is a conserved mechanism for controlling insect diapause [46,47].&lt;/p&gt;
+&lt;p&gt;To survive the various biotic and abiotic stresses during diapause, a series of stress-induced mechanisms in insects have to be deployed. Heat shock proteins (Hsps) are a group of well-described proteins that play vital roles in cold hardiness and normal development during diapause [48,49]. Two Hsc70s, Hsc70-1 (BmUnigene24370.co) and Hsc70-4, (BmUnigene15892.co) were found up-regulated throughout diapause in this study (S5 Fig). Hsc70s are constitutively expressed members of the Hsp70 family and function as chaperone proteins that facilitate several biological processes including signal transduction, apoptosis, protein homeostasis, and cell growth and differentiation [50]. However, their exact roles in &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; diapause remain unknown. Diapausing insects are commonly subjected to hypoxia or anoxia which may affect the intracellular redox potential [51]. To protect cells from oxidative damages predominantly caused by reactive oxygen species (ROSs), several enzymatic mechanisms may be activated, such as glutathione S-transferase (GST), superoxide dismutase (SOD), catalase (CAT), and peroxidases (POD) [52–55]. In &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt;, a microsomal GST (mGST, BmUnigene15924.co) and a Mn-SOD (BmUnigene23806.co) were up-regulated throughout diapause (S5 Fig). Likewise, members of the GST or SOD family were also up-regulated in other insects during diapause [32,56,57]. The up-regulation of these antioxidant proteins is speculated to protect individuals from oxidative damage in hypoxia/anoxia environments. Moreover, the expression of ryanodine receptor (RyR, BmUnigene27638.co) was higher in diapause (S5 Fig). The RyR protein functions as the major component of a calcium channel that mediates the release of calcium ions from the sarco/endoplasmic reticulum [58]. Calcium is an important second messenger, and its release from intracellular stores is critical for activation of many Ca&lt;sup&gt;2+&lt;/sup&gt;-dependent pathways [59]. It has been demonstrated that intracellular Ca&lt;sup&gt;2+&lt;/sup&gt; is required for basal cellular metabolism and cell survival [60], and rendered cold tolerance to organisms [61]. This may also be the case for diapausing &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt;. These proteins potentially contribute to development and stress resistance during diapause, though the exact roles they play remain unknown.&lt;/p&gt;
+&lt;p&gt;The transcriptomic profile of &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; pupal development investigated previously [8] is partially consistent with the current study. For example, both studies demonstrated that both metabolism and hormone biosynthesis were suppressed in diapause and several HSPs exhibited a diverse expression pattern during the pupal stage. However, crucial differences between the two studies exist, most likely due to the different periods of sampling and methods of sequencing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Metabolomic profile during pupal development &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;PCA and PLS-DA plots showed that the variation in metabolomic profiles throughout pupal development was consistent with that observed in the gene expression profiles (Fig 6). Based on VIP scores, the variation in the metabolomic profiles was mainly attributed to changes in nine metabolites (Fig 7 and Table 2), in particular proline and trehalose, which exhibited higher VIP scores than the others and were maintained at higher concentrations throughout diapause. Proline has been demonstrated to be an excellent cryoprotectant for insects to tolerate the formation of ice crystals in their body fluids [62]. Surprisingly, simply feeding &lt;i&gt;Drosophila melanogaster&lt;/i&gt; larvae a proline-augmented diet can convert this chill susceptible insect to a freeze tolerant one, capable of surviving when 50% of its body water freezes [63]. Variations in the concentration of proline during pupal development were consistent with the DEG analysis which showed the “Arginine and proline metabolism” pathway was significantly altered (Table 1). Specifically, the up-regulation of two cytosol aminopeptidases (LAP3s, BmUnigene25466.co and BmUnigene21743.co) that release N-terminal proline from a peptide, and the down-regulation of three prolyl 4-hydroxylases (P4HAs, BmUnigene26736.c1, BmUnigene26352.co, and BmUnigene27483.co) that convert proline to hydroxyproline, may be conducive to proline accumulation throughout diapause (S5 Fig).&lt;/p&gt;
+&lt;p&gt;Trehalose is the principal sugar circulating in the hemolymph of most insects due to its unique chemical properties, and is an important agent for protecting cells from a variety of environmental stresses, such as dehydration, heat, freezing, and oxidation [64–66]. Trehalose accumulates in diapausing &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; and many other winter diapausing insects, likely acting as a cryoprotectant to help organs resist temperature fluctuations [67–69]. Nevertheless, a trehalose 6-phosphate phosphatase (TPP, BmUnigene26329.co) that catalyzes the formation of trehalose was down-regulated (S5 Fig), and other TPPs were not significantly altered throughout diapause in this study. Therefore, the accumulation of trehalose may result from alterations in trehalases (Tres) that catalyze trehalose catabolism. Insect trehalase has been demonstrated to exist in two distinct forms, soluble (Tre-1) and membrane-bound (Tre-2) trehalase [70]. In the &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; transcriptome database, only Tre-1 (BmUnigene24123.co) was identified and it did not show any significant alteration during the pupal stage (S5 Fig). Therefore, it can be inferred that another trehalase, Tre-2, may play an important role in the regulation of trehalose levels during pupal development. In addition, proline and trehalose are sources of energy in insects [64,71], accumulation of these two metabolites in diapause may facilitate energy-consuming post-diapause development.&lt;/p&gt;
+&lt;p&gt;N-acetylglutamate (NAcGlu) is an obligate activator of the urea cycle [72]. It has been reported that the accumulation of urea in diapause-destined larvae of cotton bollworm, &lt;i&gt;Helicoverpa armigera&lt;/i&gt;, exerted a potential cryopreservative effect [32]. Thus, the elevated NAcGlu levels throughout pupal diapause may enhance urea production and contribute to cold resistance in &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt;. Moreover, the synthesis of NAcGlu by N-acetylglutamate synthase (NAGS) is stimulated by both arginine, an allosteric stimulator of NAGS, and glutamate, one of NAGS's substrates. Therefore, the high glutamate levels throughout diapause are expected to meet the requirement of NAcGlu synthesis. In this study, the elevated glutamate level may be associated with drastic down-regulation of two genes in the “Arginine, aspartate and glutamate metabolism” pathway (S5 Fig), glutamine synthetase (GlnA, BmUnigene25702.co) and glutamate dehydrogenase (GdhA, BmUnigene15155.co), which catalyze the conversion of glutamate to glutamine and 2-oxoglutarate, respectively.&lt;/p&gt;
+&lt;p&gt;Glutamine is a key metabolite playing roles in a variety of biochemical functions, such as protein and lipid synthesis, source of energy, nitrogen and carbon donation, and as a precursor to glutamate [73]. High concentrations of glutamine in PreD may be in preparation for relevant biological activities in diapause. During pupal development, the glutamine level is positively correlated to the expression level of GlnA, indicating the role of GlnA in the regulation of glutamine. Alanine is another amino acid that accumulated during diapause, which is consistent with several other studies [31,74,75]. High alanine levesl has been shown to exert synergistic and colligative effects with other solutes on cold tolerance [76].&lt;/p&gt;
+&lt;p&gt;Succinate and 2-oxoglutarate are intermediates in the tricarboxylic acid (TCA) cycle, which generates ATP and provides carbon skeletons for a range of biosynthetic processes. In diapausing &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt;, the TCA cycle may be inhibited as the concentrations of 2-oxoglutarate and two other intermediates identified in our study, pyruvate and fumarate, decreased. However, the concentrations of succinate increased in diapause, probably due to the up-regulation of succinyl-CoA synthetase (LSC1, BmUnigene28496.co) which converts succinyl-CoA to succinate and releases ATP/GTP by directly transferring a phosphoryl group to ADP/GDP (S5 Fig). This reaction is a substrate-level phosphorylation that provides a quicker but less efficient source of ATP/GTP, independent of external electron acceptors [77]. Therefore, the up-regulation of LSC1 is likely involved in maintaining the ATP/GTP levels under hypoxia and energy-limited conditions during diapause.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Conclusion &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In this study, transcriptomic and metabolomic analyses were performed to discover differentially expressed genes and significantly altered metabolites that coincided with pupal development. The findings provide insights into the diapause programming of &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt;. All DEGs and significantly altered metabolites identified may collectively play roles in stress resistance and survival of &lt;i&gt;B&lt;/i&gt;.&lt;i&gt;minax&lt;/i&gt; during diapause. However, the functions of most of the genes and metabolites remain unknown. To elucidate the mechanisms underlying pupal diapause of &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;minax&lt;/i&gt; and comprehensively understand this pest, further investigations will focus on the specific aspects of biological variation along with pupal development or between diapausing and non-diapausing pupae.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Supporting information &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;[Figure omitted. See PDF.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; S1 Table. Primer sequences used for qRT-PCR validation of DEGs. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.s001&lt;/p&gt;
+&lt;p&gt;(DOC)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; S2 Table. Summary of Illumina sequencing data. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.s002&lt;/p&gt;
+&lt;p&gt;(DOCX)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; S1 Fig. Schematic diagram of respirometry system with a high-accuracy infrared CO2 detector. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.s003&lt;/p&gt;
+&lt;p&gt;(TIF)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; S2 Fig. Volcano plot of differentially expressed genes (DEGs) in each pairwise comparison of pupal stages of &lt;i&gt;Bactrocera minax&lt;/i&gt;. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Blue spot, expression of fold change &amp;gt; 2 and &lt;i&gt;P&lt;/i&gt; value &amp;lt; 0.05. Orange spot, no difference in expression. PreD, pre-diapause. ED, early-diapause. MD, middle-diapause. LD, late-diapause. PD, post-diapause.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.s004&lt;/p&gt;
+&lt;p&gt;(TIF)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; S3 Fig. Number of significantly differentially expressed genes (DEGs) in each pairwise comparison of different &lt;i&gt;Bactrocera minax&lt;/i&gt; pupal stages with Benjamini-Hochberg correction. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;PreD, pre-diapause. ED, early-diapause. MD, middle-diapause. LD, late-diapause. PD, post-diapause.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.s005&lt;/p&gt;
+&lt;p&gt;(TIF)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; S4 Fig. Representative &lt;sup&gt;1&lt;/sup&gt;H nuclear magnetic resonance (&lt;sup&gt;1&lt;/sup&gt;H NMR) spectra of &lt;i&gt;Bactrocera minax&lt;/i&gt; pupae. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1, 2-Hydroxybutyrate. 2, 2-Oxoglutarate. 3, 3-Aminoisobutyrate. 4, 3-Hydroxykynurenine. 5, Acetate. 6, Alanine. 7, Arginine. 8, Asparagine. 9, Aspartate. 10, Choline. 11, Citrate. 12, Cytidine. 13, Ethanol. 14, Ethanolamine. 15, Formate. 16, Fumarate. 17, Galactonate. 18, Glucose. 19, Glutamate. 20, Glutamine. 21, Glycine. 22, Guanosine. 23, Inosine. 24. Isoleucine. 25, Lactate. 26, Leucine. 27, Lysine. 28, Maltose. 29, Methanol. 30, N-Acetylglutamate. 31, O-Phosphocholine. 32, O-Phosphoethanolamine. 33, Pantothenate. 34, Phenylalanine. 35, Proline. 36, Pyruvate. 37, Succinate. 38, Threonate. 39, Threonine. 40, Trehalose. 41, Trigonelline. 42, Tryptophan. 43, Tyrosine. 44, UDP-N-Acetylglucosamine. 45, Uridine. 46, Valine. 47, sn-Glycero-3-phosphocholine. 48, trans-Aconitate. 49, β-Alanine. DSS, DSS Chemical Shape Indicator.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.s006&lt;/p&gt;
+&lt;p&gt;(TIF)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; S5 Fig. RPKM values of selected genes at different &lt;i&gt;Bactrocera minax&lt;/i&gt; pupal stages. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;PreD, pre-diapause. ED, early-diapause. MD, middle-diapause. LD, late-diapause. PD, post-diapause. Hsc70, heat shock cognate protein 70. mGST, microsomal glutathione S transferase. Mn-SOD, Mn superoxide dismutase. RyR, ryanodine receptor. LAP3, cytosol aminopeptidases. P4HA, prolyl 4-hydroxylases. TPP, trehalose 6-phosphate phosphatase. Tre-1, trehalase-1. GlnA, glutamine synthetase. GdhA, glutamate dehydrogenase. LSC1, succinyl-CoA synthetase.&lt;/p&gt;
+&lt;p&gt;https://doi.org/10.1371/journal.pone.0181033.s007&lt;/p&gt;
+&lt;p&gt;(TIF)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Acknowledgments &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We would like to thank the technicians from Anachro Technologies Inc. for their technical support in the determination of samples. We also appreciate Dr. Charles Snart and three anonymous reviewers for their valuable comments and suggestions.&lt;/p&gt;
+
+&lt;p&gt;Citation: Wang J, Fan H, Xiong K-C, Liu Y-H (2017) Transcriptomic and metabolomic profiles of Chinese citrus fly, Bactrocera minax (Diptera: Tephritidae), along with pupal development provide insight into diapause program. PLoS ONE 12(7): e0181033. https://doi.org/10.1371/journal.pone.0181033&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="References"/&gt;&lt;param name="mstar_entity_inline" value="N"/&gt;&lt;div class="References_content"&gt;&lt;p&gt; 1. Dorji C, Clarke AR, Drew RAI, Fletcher BS, Loday P, Mahat K, et al. Seasonal phenology of Bactrocera minax (Diptera: Tephritidae) in western Bhutan. B Entomol Res. 2006; 96: 531–538. &lt;/p&gt;
+&lt;p&gt; 2. Drew RAI, Dorji C, Romig MC, Loday P. Attractiveness of various combinations of colors and shapes to females and males of Bactrocera minax (Diptera: Tephritidae) in a commercial mandarin grove in Bhutan. J Econ Entomol. 2006; 99: 1651–1656. pmid:17066795 &lt;/p&gt;
+&lt;p&gt; 3. Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, et al. Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. Raffles B Zool. 1999; supplement No. 7: 1–92. &lt;/p&gt;
+&lt;p&gt; 4. Zhang Y, Zhang ZM. Occurrence and integrated control methods of Chinese citrus fly Bactrocera minax. Bull Agric Sci Technol. 2005; 2: 22–23. &lt;/p&gt;
+&lt;p&gt; 5. Lv JX, Pan CK, Qi CJ. Impact of emergency on influencing mechanism of citrus circulation and its countermeasures—Taking snow disaster and citrus fruit fly events in 2008 as an example. J Huazhong Agric Univ (Soc Sci Ed). 2010; 6: 46–51. &lt;/p&gt;
+&lt;p&gt; 6. Han P, Wang X, Niu CY, Dong YC, Zhu JQ, Desneux N. Population dynamics, phenology, and overwintering of Bactrocera dorsalis (Diptera: Tephritidae) in Hubei Province, China. J Pest Sci. 2011; 84: 289–295. &lt;/p&gt;
+&lt;p&gt; 7. Chen EH, Dou W, Hu F, Tang S, Zhao ZM, Wang JJ. Purification and biochemical characterization of glutathione S-transferases in Bactrocera minax (Diptera: Tephritidae). Fla Entomol. 2012; 95: 593–601. &lt;/p&gt;
+&lt;p&gt; 8. Dong YC, Desneux N, Lei CL, Niu CY. Transcriptome characterization analysis of Bactrocera minax and new insights into its pupal diapause development with gene expression analysis. Int J Biol Sci. 2014; 10: 1051–1063. pmid:25285037 &lt;/p&gt;
+&lt;p&gt; 9. Dong YC, Wan L, Pereira R, Desneux N, Niu CY. Feeding and mating behaviour of Chinese citrus fly Bactrocera minax (Diptera, Tephritidae) in the field. J Pest Sci. 2014; 87: 647–657. &lt;/p&gt;
+&lt;p&gt; 10. Dong YC, Wang ZJ, Clarke AR, Pereira R, Desneux N, Niu CY. Pupal diapause development and termination is driven by low temperature chilling in Bactrocera minax. J Pest Sci. 2013; 86: 429–436. &lt;/p&gt;
+&lt;p&gt; 11. Gao LZ, Liu YH, Wan XW, Wang J, Hong F. Screening of microsatellite markers in Bactrocera minax (Diptera: Tephritidae). Sci Agric Sin. 2013; 46: 3285–3292. &lt;/p&gt;
+&lt;p&gt; 12. Wang J, Zhou HY, Zhao ZM, Liu YH. Effects of juvenile hormone analogue and ecdysteroid on adult eclosion of the fruit fly Bactrocera minax (Diptera: Tephritidae). J Econ Entomol. 2014; 107: 1519–1525. pmid:25195444 &lt;/p&gt;
+&lt;p&gt; 13. Zhang B, Nardi F, Hull-Sanders H, Wan XW, Liu YH. The complete nucleotide sequence of the mitochondrial genome of Bactrocera minax (Diptera: Tephritidae). PLoS ONE. 2014; 9: e100558. pmid:24964138 &lt;/p&gt;
+&lt;p&gt; 14. Denlinger DL. Regulation of diapause. Annu Rev Entomol. 2002; 47: 93–122. pmid:11729070 &lt;/p&gt;
+&lt;p&gt; 15. Kostal V. Eco-physiological phases of insect diapause. J Insect Physiol. 2006; 52: 113–127. pmid:16332347 &lt;/p&gt;
+&lt;p&gt; 16. Ragland GJ, Egan SP, Feder JL, Berlocher SH, Hahn DA. Developmental trajectories of gene expression reveal candidates for diapause termination: a key life-history transition in the apple maggot fly Rhagoletis pomonella. J Exp Biol. 2011; 214: 3948–3959. pmid:22071185 &lt;/p&gt;
+&lt;p&gt; 17. Hahn DA, Denlinger DL. Meeting the energetic demands of insect diapause: Nutrient storage and utilization. J Insect Physiol. 2007; 53: 760–773. pmid:17532002 &lt;/p&gt;
+&lt;p&gt; 18. Metzker ML. Sequencing technologies—the next generation. Nat Rev Genet. 2010; 11: 31–46. pmid:19997069 &lt;/p&gt;
+&lt;p&gt; 19. Kozarewa I, Ning Z, Quail MA, Sanders MJ, Berriman M, Turner DJ. Amplification-free Illumina sequencing-library preparation facilitates improved mapping and assembly of (G+C)-biased genomes. Nat Methods. 2009; 6: 291–295. pmid:19287394 &lt;/p&gt;
+&lt;p&gt; 20. Yassour M, Kaplan T, Fraser HB, Levin JZ, Pfiffner J, Adiconis X, et al. Ab initio construction of a eukaryotic transcriptome by massively parallel mRNA sequencing. Proc Natl Acad Sci USA. 2009; 106: 3264–3269. pmid:19208812 &lt;/p&gt;
+&lt;p&gt; 21. Wang J, Xiong KC, Liu YH. De novo transcriptome analysis of Chinese citrus fly, Bactrocera minax (Diptera: Tephritidae), by high-throughput Illumina sequencing. PLoS ONE. 2016; 11: e0157656. pmid:27331903 &lt;/p&gt;
+&lt;p&gt; 22. Lenz EM, Wilson ID. Analytical strategies in metabonomics. J Proteome Res. 2007; 6: 443–458. pmid:17269702 &lt;/p&gt;
+&lt;p&gt; 23. Farag MA, Porzel A, Wessjohann LA. Comparative metabolite profiling and fingerprinting of medicinal licorice roots using a multiplex approach of GC-MS, LC-MS and 1D NMR techniques. Phytochemistry. 2012; 76: 60–72. pmid:22336263 &lt;/p&gt;
+&lt;p&gt; 24. Madji Hounoum B, Blasco H, Nadal-Desbarats L, Dieme B, Montigny F, Andres CR, et al. Analytical methodology for metabolomics study of adherent mammalian cells using NMR, GC-MS and LC-HRMS. Anal Bioanal Chem. 2015; 407: 8861–8872. pmid:26446897 &lt;/p&gt;
+&lt;p&gt; 25. Tredwell GD, Edwards-Jones B, Leak DJ, Bundy JG. The development of metabolomic sampling procedures for Pichia pastoris, and baseline metabolome data. PLoS ONE. 2011; 6: e16286. pmid:21283710 &lt;/p&gt;
+&lt;p&gt; 26. Zhang S, Nagana Gowda GA, Ye T, Raftery D. Advances in NMR-based biofluid analysis and metabolite profiling. Analyst. 2010; 135: 1490–1498. pmid:20379603 &lt;/p&gt;
+&lt;p&gt; 27. Slupsky CM, Steed H, Wells TH, Dabbs K, Schepansky A, Capstick V, et al. Urine metabolite analysis offers potential early diagnosis of ovarian and breast cancers. Clin Cancer Res. 2010; 16: 5835–5841. pmid:20956617 &lt;/p&gt;
+&lt;p&gt; 28. Jung J, Park M, Park HJ, Shim SB, Cho YH, Kim J, et al. (1)H NMR-based metabolic profiling of naproxen-induced toxicity in rats. Toxicol Lett. 2011; 200: 1–7. pmid:20932884 &lt;/p&gt;
+&lt;p&gt; 29. Booth SC, Workentine ML, Wen J, Shaykhutdinov R, Vogel HJ, Ceri H, et al. Differences in metabolism between the biofilm and planktonic response to metal stress. J Proteome Res. 2011; 10: 3190–3199. pmid:21561166 &lt;/p&gt;
+&lt;p&gt; 30. O'Sullivan A, Gibney MJ, Brennan L. Dietary intake patterns are reflected in metabolomic profiles: potential role in dietary assessment studies. Am J Clin Nutr. 2011; 93: 314–321. pmid:21177801 &lt;/p&gt;
+&lt;p&gt; 31. Michaud MR, Denlinger DL. Shifts in the carbohydrate, polyol, and amino acid pools during rapid cold-hardening and diapause-associated cold-hardening in flesh flies (Sarcophaga crassipalpis): a metabolomic comparison. J Comp Physiol B. 2007; 177: 753–763. pmid:17576567 &lt;/p&gt;
+&lt;p&gt; 32. Zhang Q, Lu YX, Xu WH. Proteomic and metabolomic profiles of larval hemolymph associated with diapause in the cotton bollworm, Helicoverpa armigera. BMC Genomics. 2013; 14: 751. pmid:24180224 &lt;/p&gt;
+&lt;p&gt; 33. Lu YX, Zhang Q, Xu WH. Global metabolomic analyses of the hemolymph and brain during the initiation, maintenance, and termination of pupal diapause in the cotton bollworm, Helicoverpa armigera. PLoS ONE. 2014; 9: e99948. pmid:24926789 &lt;/p&gt;
+&lt;p&gt; 34. Patel RK, Jain M. NGS QC Toolkit: a toolkit for quality control of next generation sequencing data. PLoS ONE. 2012; 7: e30619. pmid:22312429 &lt;/p&gt;
+&lt;p&gt; 35. Mortazavi A, Williams BA, McCue K, Schaeffer L, Wold B. Mapping and quantifying mammalian transcriptomes by RNA-Seq. Nat Methods. 2008; 5: 621–628. pmid:18516045 &lt;/p&gt;
+&lt;p&gt; 36. Anders S, Huber W. Differential expression analysis for sequence count data. Genome Biol. 2010; 11: R106. pmid:20979621 &lt;/p&gt;
+&lt;p&gt; 37. Eisen MB, Spellman PT, Brown PO, Botstein D. Cluster analysis and display of genome-wide expression patterns. Proc Natl Acad Sci USA. 1998; 95: 14863–14868. pmid:9843981 &lt;/p&gt;
+&lt;p&gt; 38. Saldanha AJ. Java Treeview-extensible visualization of microarray data. Bioinformatics. 2004; 20: 3246–3248. pmid:15180930 &lt;/p&gt;
+&lt;p&gt; 39. Stacklies W, Redestig H, Scholz M, Walther D, Selbig J. pcaMethods-a bioconductor package providing PCA methods for incomplete data. Bioinformatics. 2007; 23: 1164–1167. pmid:17344241 &lt;/p&gt;
+&lt;p&gt; 40. Wang J, Zhao J, Liu YH. Evaluation of endogenous reference genes in Bactrocera minax (Diptera: Tephritidae). Acta Entomol Sin. 2014; 57: 1375–1380. &lt;/p&gt;
+&lt;p&gt; 41. Mevik BH, Wehrens R. The pls package: Principal component and partial least squares regression in R. J Stat Softw. 2007; 18: 1–23. &lt;/p&gt;
+&lt;p&gt; 42. Broadhurst DI, Kell DB. Statistical strategies for avoiding false discoveries in metabolomics and related experiments. Metabolomics. 2006; 2: 171–196. &lt;/p&gt;
+&lt;p&gt; 43. Ragland GJ, Fuller J, Feder JL, Hahn DA. Biphasic metabolic rate trajectory of pupal diapause termination and post-diapause development in a tephritid fly. J Insect Physiol. 2009; 55: 344–350. pmid:19200436 &lt;/p&gt;
+&lt;p&gt; 44. Nusse R. Wnt signaling and stem cell control. Cell Res. 2008; 18: 523–527. pmid:18392048 &lt;/p&gt;
+&lt;p&gt; 45. Huang J, Wu S, Barrera J, Matthews K, Pan D. The Hippo signaling pathway coordinately regulates cell proliferation and apoptosis by inactivating Yorkie, the Drosophila homolog of YAP. Cell. 2005; 122: 421–434. pmid:16096061 &lt;/p&gt;
+&lt;p&gt; 46. Sim C, Denlinger DL. Insulin signaling and FOXO regulate the overwintering diapause of the mosquito Culex pipiens. Proc Natl Acad Sci USA. 2008; 105: 6777–6781. pmid:18448677 &lt;/p&gt;
+&lt;p&gt; 47. Sim C, Denlinger DL. Insulin signaling and the regulation of insect diapause. Front Physiol. 2013; 4: 189. pmid:23885240 &lt;/p&gt;
+&lt;p&gt; 48. Rinehart JP, Li A, Yocum GD, Robich RM, Hayward SAL, Denlinger DL. Up-regulation of heat shock proteins is essential for cold survival during insect diapause. Proc Natl Acad Sci USA. 2007; 104: 11130–11137. pmid:17522254 &lt;/p&gt;
+&lt;p&gt; 49. Feder ME, Hofmann GE. Heat-shock proteins, molecular chaperones, and the stress response: Evolutionary and ecological physiology. Annu Rev Physiol. 1999; 61: 243–282. pmid:10099689 &lt;/p&gt;
+&lt;p&gt; 50. Mayer MP, Bukau B. Hsp70 chaperones: Cellular functions and molecular mechanism. Cell Mol Life Sci. 2005; 62: 670–684. pmid:15770419 &lt;/p&gt;
+&lt;p&gt; 51. MacRae TH. Gene expression, metabolic regulation and stress tolerance during diapause. Cell Mol Life Sci. 2010; 67: 2405–2424. pmid:20213274 &lt;/p&gt;
+&lt;p&gt; 52. Kankofer M. Antioxidative defence mechanisms against reactive oxygen species in bovine retained and not-retained placenta: activity of glutathione peroxidase, glutathione transferase, catalase and superoxide dismutase. Placenta. 2001; 22: 466–472. pmid:11373157 &lt;/p&gt;
+&lt;p&gt; 53. Enayati AA, Ranson H, Hemingway J. Insect glutathione transferases and insecticide resistance. Insect Mol Biol. 2005; 14: 3–8. pmid:15663770 &lt;/p&gt;
+&lt;p&gt; 54. Fridovich I. Superoxide anion radical (O2-.), superoxide dismutases, and related matters. J Biol Chem. 1997; 272: 18515–18517. pmid:9228011 &lt;/p&gt;
+&lt;p&gt; 55. Chelikani P, Fita I, Loewen PC. Diversity of structures and properties among catalases. Cell Mol Life Sci. 2004; 61: 192–208. pmid:14745498 &lt;/p&gt;
+&lt;p&gt; 56. Bi Z, Yang X, Yu W, Shu J, Zhang Y. Diapause-associated protein3 functions as Cu/Zn superoxide dismutase in the Chinese oak silkworm (Antheraea pernyi). PLoS ONE. 2014; 9: e90435. pmid:24613963 &lt;/p&gt;
+&lt;p&gt; 57. Tu X, Wang J, Hao K, Whitman DW, Fan Y, Cao G, et al. Transcriptomic and proteomic analysis of pre-diapause and non-diapause eggs of migratory locust, Locusta migratoria L. (Orthoptera: Acridoidea). Sci Rep. 2015; 5: 11402. pmid:26091374 &lt;/p&gt;
+&lt;p&gt; 58. Santulli G, Marks AR. Essential roles of intracellular calcium release channels in muscle, brain, metabolism, and aging. Curr Mol Pharmacol. 2015; 8: 206–222. pmid:25966694 &lt;/p&gt;
+&lt;p&gt; 59. Berridge MJ, Bootman MD, Lipp P. Calcium-a life and death signal. Nature. 1998; 395: 645–648. pmid:9790183 &lt;/p&gt;
+&lt;p&gt; 60. Bround MJ, Wambolt R, Luciani DS, Kulpa JE, Rodrigues B, Brownsey RW, et al. Cardiomyocyte ATP production, metabolic flexibility, and survival require calcium flux through cardiac ryanodine receptors in vivo. J Biol Chem. 2013; 288: 18975–18986. pmid:23678000 &lt;/p&gt;
+&lt;p&gt; 61. Teets NM, Yi SX, Lee RE Jr., Denlinger DL. Calcium signaling mediates cold sensing in insect tissues. Proc Natl Acad Sci USA. 2013; 110: 9154–9159. pmid:23671084 &lt;/p&gt;
+&lt;p&gt; 62. Kostal V, Zahradnickova H, Simek P. Hyperprolinemic larvae of the drosophilid fly, Chymomyza costata, survive cryopreservation in liquid nitrogen. Proc Natl Acad Sci USA. 2011; 108: 13041–13046. pmid:21788482 &lt;/p&gt;
+&lt;p&gt; 63. Kostal V, Simek P, Zahradnickova H, Cimlova J, Stetina T. Conversion of the chill susceptible fruit fly larva (Drosophila melanogaster) to a freeze tolerant organism. Proc Natl Acad Sci USA. 2012; 109: 3270–3274. pmid:22331891 &lt;/p&gt;
+&lt;p&gt; 64. Thompson SN. Trehalose—The insect 'blood' sugar. Adv Insect Physiol. 2003; 31: 205–285. &lt;/p&gt;
+&lt;p&gt; 65. Benaroudj N, Lee DH, Goldberg AL. Trehalose accumulation during cellular stress protects cells and cellular proteins from damage by oxygen radicals. J Biol Chem. 2001; 276: 24261–24267. pmid:11301331 &lt;/p&gt;
+&lt;p&gt; 66. Jain NK, Roy I. Effect of trehalose on protein structure. Protein Sci. 2009; 18: 24–36. pmid:19177348 &lt;/p&gt;
+&lt;p&gt; 67. Guo Q, Hao YJ, Li Y, Zhang YJ, Ren S, Si FL, et al. Gene cloning, characterization and expression and enzymatic activities related to trehalose metabolism during diapause of the onion maggot Delia antiqua (Diptera: Anthomyiidae). Gene. 2015; 565: 106–115. pmid:25841989 &lt;/p&gt;
+&lt;p&gt; 68. Kostal V, Simek P. Dynamics of cold-hardiness, supercooling and cryoprotectants in diapausing and nondiapausing pupae of the cabbage root fly, Delia-Radicum L. J Insect Physiol. 1995; 41: 627–634. &lt;/p&gt;
+&lt;p&gt; 69. Rozsypal J, Kostal V, Zahradnickova H, Simek P. Overwintering strategy and mechanisms of cold tolerance in the codling moth (Cydia pomonella). PLoS ONE. 2013; 8: e61745. pmid:23613923 &lt;/p&gt;
+&lt;p&gt; 70. Wang J, He WB, Su YL, Bing XL, Liu SS. Molecular characterization of soluble and membrane bound trehalases of the whitefly, Bemisia tabaci. Arch Insect Biochem. 2014; 85: 216–233. &lt;/p&gt;
+&lt;p&gt; 71. Arrese EL, Soulages JL. Insect fat body: Energy, metabolism, and regulation. Annu Rev Entomol. 2010; 55: 207–225. pmid:19725772 &lt;/p&gt;
+&lt;p&gt; 72. Caldovic L, Tuchman M. N-acetylglutamate and its changing role through evolution. Biochem J. 2003; 372: 279–290. pmid:12633501 &lt;/p&gt;
+&lt;p&gt; 73. Newsholme P, Lima MMR, Porcopio J, Pithon-Curi TC, Doi SQ, Bazotte RB, et al. Glutamine and glutamate as vital metabolites. Braz J Med Biol Res. 2003; 36: 153–163. pmid:12563517 &lt;/p&gt;
+&lt;p&gt; 74. Rivers DB, Lee RE, Denlinger DL. Cold hardiness of the fly pupal parasitoid Nasonia vitripennis is enhanced by its host Sarcophaga crassipalpis. J Insect Physiol. 2000; 46: 99–106. pmid:12770263 &lt;/p&gt;
+&lt;p&gt; 75. Li YP, Goto M, Ito S, Sato Y, Sasaki K, Goto N. Physiology of diapause and cold hardiness in the overwintering pupae of the fall webworm Hyphantria cunea (Lepidoptera: Arctiidae) in Japan. J Insect Physiol. 2001; 47: 1181–1187. pmid:12770196 &lt;/p&gt;
+&lt;p&gt; 76. Churchill TA, Storey KB. Metabolic consequences of rapid cycles of temperature-change for freeze-avoiding vs. freeze-tolerant insects. J Insect Physiol. 1989; 35: 579–585. &lt;/p&gt;
+&lt;p&gt; 77. Lambeth DO, Tews KN, Adkins S, Frohlich D, Milavetz BI. Expression of two succinyl-CoA synthetases with different nucleotide specificities in mammalian tissues. J Biol Chem. 2004; 279: 36621–36624. pmid:15234968 &lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>PLoS One</Title>
+         <MpubId>1436336</MpubId>
+         <SortTitle>PLoS One</SortTitle>
+         <Qualifier>San Francisco</Qualifier>
+         <JournalCode>PLBN</JournalCode>
+         <SourceType>Scholarly Journals</SourceType>
+         <StartDate>20060101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Public Library of Science</PublisherName>
+            <PublisherAddress>
+               <Address1>1160 Battery Street</Address1>
+               <Address2>Koshland Building East, Suite 100</Address2>
+               <City>San Francisco</City>
+               <Province>CA</Province>
+               <ZipCode>94111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>174835</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>19326203</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>103767.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PEERREVIEWEDFLAG">Y</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Medical Sciences</Subject>
+            <Subject>Sciences: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>PLoS One</Title>
+            <SortTitle>PLoS One</SortTitle>
+            <Qualifier>San Francisco</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>174835</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>19326203</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>103767.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 2006</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>1</StartVolume>
+            <EndVolume>16</EndVolume>
+            <StartIssue>1</StartIssue>
+            <EndIssue>3</EndIssue>
+            <NumericStartDate>20061201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 2017</AlphaDate>
+         <StartDate>2017-07-01</StartDate>
+         <EndDate>2017-07-31</EndDate>
+         <Volume>12</Volume>
+         <Issue>7</Issue>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_174835_Jul2017_12_7</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,244 @@
+,Text,POS,TAG,Dep,ENT_Type,POS Expain,Tag Explain
+0,The,DET,DT,det,,determiner,determiner
+1,Chinese,ADJ,JJ,amod,NORP,adjective,"adjective (English), other noun-modifier (Chinese)"
+2,citrus,NOUN,NN,nsubj,,noun,"noun, singular or mass"
+3,fly,VERB,VBP,ccomp,,verb,"verb, non-3rd person singular present"
+4,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+5,<,X,XX,punct,,other,unknown
+6,i,PRON,PRP,dep,,pronoun,"pronoun, personal"
+7,>,PUNCT,NFP,punct,,punctuation,superfluous punctuation
+8,Bactrocera,PROPN,NNP,compound,,proper noun,"noun, proper singular"
+9,minax,NOUN,NN,dobj,,noun,"noun, singular or mass"
+10,<,X,XX,punct,,other,unknown
+11,/i>(Enderlein,X,XX,punct,,other,unknown
+12,),PUNCT,-RRB-,punct,,punctuation,right round bracket
+13,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+14,is,AUX,VBZ,ROOT,,auxiliary,"verb, 3rd person singular present"
+15,a,DET,DT,det,,determiner,determiner
+16,devastating,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+17,citrus,NOUN,NN,amod,,noun,"noun, singular or mass"
+18,pest,NOUN,NN,attr,,noun,"noun, singular or mass"
+19,in,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+20,Asia,PROPN,NNP,pobj,LOC,proper noun,"noun, proper singular"
+21, ,SPACE,_SP,dep,,space,whitespace
+22,This,DET,DT,det,,determiner,determiner
+23,univoltine,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+24,insect,NOUN,NN,nsubj,,noun,"noun, singular or mass"
+25,enters,VERB,VBZ,ROOT,,verb,"verb, 3rd person singular present"
+26,obligatory,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+27,pupal,NOUN,NN,compound,,noun,"noun, singular or mass"
+28,diapause,NOUN,NN,dobj,,noun,"noun, singular or mass"
+29,in,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+30,each,DET,DT,det,,determiner,determiner
+31,generation,NOUN,NN,pobj,,noun,"noun, singular or mass"
+32,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+33,while,SCONJ,IN,mark,,subordinating conjunction,"conjunction, subordinating or preposition"
+34,little,ADJ,JJ,nsubjpass,,adjective,"adjective (English), other noun-modifier (Chinese)"
+35,is,AUX,VBZ,auxpass,,auxiliary,"verb, 3rd person singular present"
+36,known,VERB,VBN,advcl,,verb,"verb, past participle"
+37,about,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+38,the,DET,DT,det,,determiner,determiner
+39,course,NOUN,NN,pobj,,noun,"noun, singular or mass"
+40,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+41,the,DET,DT,det,,determiner,determiner
+42,molecular,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+43,mechanisms,NOUN,NNS,conj,,noun,"noun, plural"
+44,of,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+45,diapause,NOUN,NN,pobj,,noun,"noun, singular or mass"
+46, ,SPACE,_SP,dep,,space,whitespace
+47,In,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+48,this,DET,DT,det,,determiner,determiner
+49,study,NOUN,NN,pobj,,noun,"noun, singular or mass"
+50,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+51,the,DET,DT,det,,determiner,determiner
+52,course,NOUN,NN,nsubjpass,,noun,"noun, singular or mass"
+53,of,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+54,diapause,NOUN,NN,pobj,,noun,"noun, singular or mass"
+55,was,AUX,VBD,auxpass,,auxiliary,"verb, past tense"
+56,determined,VERB,VBN,ROOT,,verb,"verb, past participle"
+57,by,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+58,measuring,VERB,VBG,pcomp,,verb,"verb, gerund or present participle"
+59,the,DET,DT,det,,determiner,determiner
+60,respiratory,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+61,rate,NOUN,NN,dobj,,noun,"noun, singular or mass"
+62,throughout,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+63,the,DET,DT,det,,determiner,determiner
+64,pupal,NOUN,NN,compound,,noun,"noun, singular or mass"
+65,stage,NOUN,NN,pobj,,noun,"noun, singular or mass"
+66, ,SPACE,_SP,dep,,space,whitespace
+67,In,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+68,addition,NOUN,NN,pobj,,noun,"noun, singular or mass"
+69,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+70,the,DET,DT,det,,determiner,determiner
+71,variation,NOUN,NN,nsubjpass,,noun,"noun, singular or mass"
+72,of,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+73,transcriptomic,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+74,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+75,metabolomic,ADJ,JJ,conj,,adjective,"adjective (English), other noun-modifier (Chinese)"
+76,profiles,NOUN,NNS,pobj,,noun,"noun, plural"
+77,of,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+78,pupae,NOUN,NNS,pobj,,noun,"noun, plural"
+79,at,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+80,five,NUM,CD,nummod,CARDINAL,numeral,cardinal number
+81,developmental,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+82,stages,NOUN,NNS,pobj,,noun,"noun, plural"
+83,(,PUNCT,-LRB-,punct,,punctuation,left round bracket
+84,pre-,ADJ,JJ,appos,,adjective,"adjective (English), other noun-modifier (Chinese)"
+85,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+86,early-,PROPN,NNP,prep,DATE,proper noun,"noun, proper singular"
+87,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+88,middle-,PROPN,NNP,conj,,proper noun,"noun, proper singular"
+89,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+90,late-,PROPN,NNP,conj,ORG,proper noun,"noun, proper singular"
+91,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+92,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+93,post,ADJ,JJ,conj,,adjective,"adjective (English), other noun-modifier (Chinese)"
+94,-,ADJ,JJ,conj,,adjective,"adjective (English), other noun-modifier (Chinese)"
+95,diapause,NOUN,NN,appos,,noun,"noun, singular or mass"
+96,),PUNCT,-RRB-,punct,,punctuation,right round bracket
+97,were,AUX,VBD,auxpass,,auxiliary,"verb, past tense"
+98,evaluated,VERB,VBN,ROOT,,verb,"verb, past participle"
+99,by,ADP,IN,agent,,adposition,"conjunction, subordinating or preposition"
+100,next,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+101,-,PUNCT,HYPH,punct,,punctuation,"punctuation mark, hyphen"
+102,generation,NOUN,NN,npadvmod,,noun,"noun, singular or mass"
+103,sequencing,VERB,VBG,amod,,verb,"verb, gerund or present participle"
+104,technology,NOUN,NN,pobj,,noun,"noun, singular or mass"
+105,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+106,1H,NUM,CD,nmod,CARDINAL,numeral,cardinal number
+107,nuclear,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+108,magnetic,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+109,resonance,NOUN,NN,compound,,noun,"noun, singular or mass"
+110,spectroscopy,NOUN,NN,conj,,noun,"noun, singular or mass"
+111,(,PUNCT,-LRB-,punct,,punctuation,left round bracket
+112,NMR,PROPN,NNP,appos,ORG,proper noun,"noun, proper singular"
+113,),PUNCT,-RRB-,punct,,punctuation,right round bracket
+114,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+115,respectively,ADV,RB,advmod,,adverb,adverb
+116, ,SPACE,_SP,dep,,space,whitespace
+117,A,DET,DT,det,,determiner,determiner
+118,total,NOUN,NN,nsubjpass,,noun,"noun, singular or mass"
+119,of,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+120,"4,808",NUM,CD,nummod,CARDINAL,numeral,cardinal number
+121,genes,NOUN,NNS,pobj,,noun,"noun, plural"
+122,were,AUX,VBD,auxpass,,auxiliary,"verb, past tense"
+123,significantly,ADV,RB,advmod,,adverb,adverb
+124,altered,VERB,VBN,ROOT,,verb,"verb, past participle"
+125,in,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+126,ten,NUM,CD,nummod,CARDINAL,numeral,cardinal number
+127,pairwise,NOUN,NN,compound,,noun,"noun, singular or mass"
+128,comparisons,NOUN,NNS,pobj,,noun,"noun, plural"
+129,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+130,representing,VERB,VBG,acl,,verb,"verb, gerund or present participle"
+131,major,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+132,shifts,NOUN,NNS,dobj,,noun,"noun, plural"
+133,in,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+134,metabolism,NOUN,NN,nmod,,noun,"noun, singular or mass"
+135,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+136,signal,NOUN,NN,conj,,noun,"noun, singular or mass"
+137,transduction,NOUN,NN,pobj,,noun,"noun, singular or mass"
+138,as,ADV,RB,advmod,,adverb,adverb
+139,well,ADV,RB,advmod,,adverb,adverb
+140,as,ADP,IN,cc,,adposition,"conjunction, subordinating or preposition"
+141,endocrine,NOUN,NN,compound,,noun,"noun, singular or mass"
+142,system,NOUN,NN,conj,,noun,"noun, singular or mass"
+143,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+144,digestive,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+145,system,NOUN,NN,conj,,noun,"noun, singular or mass"
+146, ,SPACE,_SP,dep,,space,whitespace
+147,Gene,PROPN,NNP,compound,,proper noun,"noun, proper singular"
+148,expression,NOUN,NN,compound,,noun,"noun, singular or mass"
+149,profiles,NOUN,NNS,nsubjpass,,noun,"noun, plural"
+150,were,AUX,VBD,auxpass,,auxiliary,"verb, past tense"
+151,validated,VERB,VBN,ROOT,,verb,"verb, past participle"
+152,by,ADP,IN,agent,,adposition,"conjunction, subordinating or preposition"
+153,qRT,NOUN,NN,amod,,noun,"noun, singular or mass"
+154,-,PUNCT,HYPH,punct,,punctuation,"punctuation mark, hyphen"
+155,PCR,PROPN,NNP,compound,,proper noun,"noun, proper singular"
+156,analysis,NOUN,NN,pobj,,noun,"noun, singular or mass"
+157, ,SPACE,_SP,dep,,space,whitespace
+158,In,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+159,addition,NOUN,NN,pobj,,noun,"noun, singular or mass"
+160,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+161,48,NUM,CD,nummod,CARDINAL,numeral,cardinal number
+162,metabolites,NOUN,NNS,nsubjpass,,noun,"noun, plural"
+163,were,AUX,VBD,auxpass,,auxiliary,"verb, past tense"
+164,identified,VERB,VBN,ROOT,,verb,"verb, past participle"
+165,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+166,quantified,VERB,VBN,conj,,verb,"verb, past participle"
+167,by,ADP,IN,agent,,adposition,"conjunction, subordinating or preposition"
+168,1H,PROPN,NNP,compound,CARDINAL,proper noun,"noun, proper singular"
+169,NMR,PROPN,NNP,pobj,ORG,proper noun,"noun, proper singular"
+170, ,SPACE,_SP,dep,,space,whitespace
+171,Nine,NUM,CD,nsubj,,numeral,cardinal number
+172,of,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+173,which,PRON,WDT,pobj,,pronoun,wh-determiner
+174,significantly,ADV,RB,advmod,,adverb,adverb
+175,contributed,VERB,VBD,ROOT,,verb,"verb, past tense"
+176,to,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+177,the,DET,DT,det,,determiner,determiner
+178,variation,NOUN,NN,pobj,,noun,"noun, singular or mass"
+179,in,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+180,the,DET,DT,det,,determiner,determiner
+181,metabolomic,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+182,profiles,NOUN,NNS,pobj,,noun,"noun, plural"
+183,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+184,especially,ADV,RB,advmod,,adverb,adverb
+185,proline,NOUN,NN,advcl,,noun,"noun, singular or mass"
+186,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+187,trehalose,ADP,IN,conj,,adposition,"conjunction, subordinating or preposition"
+188, ,SPACE,_SP,dep,,space,whitespace
+189,Moreover,ADV,RB,advmod,,adverb,adverb
+190,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+191,the,DET,DT,det,,determiner,determiner
+192,samples,NOUN,NNS,nsubj,,noun,"noun, plural"
+193,collected,VERB,VBN,acl,,verb,"verb, past participle"
+194,within,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+195,diapause,NOUN,NN,compound,,noun,"noun, singular or mass"
+196,maintenance,NOUN,NN,pobj,,noun,"noun, singular or mass"
+197,(,PUNCT,-LRB-,punct,,punctuation,left round bracket
+198,early-,PROPN,NNP,appos,,proper noun,"noun, proper singular"
+199,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+200,middle-,NOUN,NNS,conj,,noun,"noun, plural"
+201,",",PUNCT,",",punct,,punctuation,"punctuation mark, comma"
+202,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+203,late,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+204,-,PUNCT,HYPH,punct,,punctuation,"punctuation mark, hyphen"
+205,diapause,NOUN,NN,conj,,noun,"noun, singular or mass"
+206,),PUNCT,-RRB-,punct,,punctuation,right round bracket
+207,only,ADV,RB,advmod,,adverb,adverb
+208,exhibited,VERB,VBD,ROOT,,verb,"verb, past tense"
+209,marginal,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+210,transcriptomic,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+211,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+212,metabolomic,ADJ,JJ,conj,,adjective,"adjective (English), other noun-modifier (Chinese)"
+213,variation,NOUN,NN,dobj,,noun,"noun, singular or mass"
+214,with,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+215,each,DET,DT,det,,determiner,determiner
+216,other,ADJ,JJ,pobj,,adjective,"adjective (English), other noun-modifier (Chinese)"
+217, ,SPACE,_SP,dep,,space,whitespace
+218,These,DET,DT,det,,determiner,determiner
+219,findings,NOUN,NNS,nsubj,,noun,"noun, plural"
+220,greatly,ADV,RB,advmod,,adverb,adverb
+221,improve,VERB,VBP,ROOT,,verb,"verb, non-3rd person singular present"
+222,our,PRON,PRP$,poss,,pronoun,"pronoun, possessive"
+223,understanding,NOUN,NN,dobj,,noun,"noun, singular or mass"
+224,of,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+225,<,X,XX,punct,,other,unknown
+226,i,PRON,PRP,pobj,,pronoun,"pronoun, personal"
+227,>,X,ADD,nmod,,other,email
+228,B,NOUN,NN,punct,,noun,"noun, singular or mass"
+229, ,SPACE,_SP,dep,,space,whitespace
+230,minax,NOUN,NN,pobj,,noun,"noun, singular or mass"
+231,<,X,XX,nmod,,other,unknown
+232,/i,X,XX,nmod,,other,unknown
+233,>,X,XX,compound,,other,unknown
+234,diapause,NOUN,NN,ROOT,,noun,"noun, singular or mass"
+235,and,CCONJ,CC,cc,,coordinating conjunction,"conjunction, coordinating"
+236,lay,VERB,VBD,conj,,verb,"verb, past tense"
+237,the,DET,DT,det,,determiner,determiner
+238,foundation,NOUN,NN,dobj,,noun,"noun, singular or mass"
+239,for,ADP,IN,prep,,adposition,"conjunction, subordinating or preposition"
+240,further,ADJ,JJ,advmod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+241,pertinent,ADJ,JJ,amod,,adjective,"adjective (English), other noun-modifier (Chinese)"
+242,studies,NOUN,NNS,pobj,,noun,"noun, plural"

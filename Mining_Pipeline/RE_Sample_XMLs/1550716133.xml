@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1550716133</GOID>
+   
+   <Obj>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt>
+         <Title>Federal Reserve cuts another $10 billion, but promises more stimulus</Title>
+      </TitleAtt>
+      <NumericDate>2014-07-30</NumericDate>
+      <StartDate>2014-07-30</StartDate>
+      <EndDate>2014-07-30</EndDate>
+      <AlphaDate>Jul 30, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Clarity Media Group, Inc. Jul 30, 2014</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+         <DocSection>PennAve</DocSection>
+         <DocEdition>Examiner</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>3391270601</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>89483552</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>99410</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>WHEX</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="DTI">
+            <PublisherXID>SFEXWHEX20140730073014fed</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Lawler, Joseph</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Joseph</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Joseph Lawler</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lawler</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>Joseph Lawler</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Central banks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Monetary policy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Meetings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Economic indicators</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Economic statistics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Gross Domestic Product--GDP</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium WordCount="37">
+            <AbsText HTMLContent="true">
+          &lt;html&gt;
+            &lt;head&gt;
+              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;
+              &lt;title&gt; &lt;/title&gt;
+            &lt;/head&gt;
+            &lt;body&gt;
+              &lt;p&gt;
+At the end of a two-day meeting in Washington, officials at the central bank announced that they would reduce the monthly purchases of Treasury bonds and mortgage-backed securities from $35 billion to $25 billion in August.
+&lt;/p&gt;
+            &lt;/body&gt;
+          &lt;/html&gt;
+</AbsText>
+         </Medium>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /users/z/azastrow/pqd/sis/gs40/RCS/gs51.xslt,v 2.1 2014/01/21 18:05:18 azastrow Exp $</MappingVersion>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="494" HTMLContent="true">
+          &lt;html&gt;
+            &lt;head&gt;
+              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;
+              &lt;title&gt; &lt;/title&gt;
+            &lt;/head&gt;
+            &lt;body&gt;
+              &lt;p&gt;
+The Federal Reserve cut another $10 billion from its bond purchases Wednesday, bringing the monetary stimulus program within months of its end.
+&lt;/p&gt;
+              &lt;p&gt;
+At the end of a two-day meeting in Washington, officials at the central bank announced that they would reduce the monthly purchases of Treasury bonds and mortgage-backed securities from $35 billion to $25 billion in August.
+&lt;/p&gt;
+              &lt;p&gt;
+The move was widely expected. Minutes from the June meeting indicated that Fed officials planned to continue phasing out the quantitative easing program in successive meetings and "tapering" the bond purchases to zero by the October meeting.
+&lt;/p&gt;
+              &lt;p&gt;
+The bond-buying program, begun in late 2012 under former Fed Chairman Ben Bernanke, is one half of the unconventional measures the central bank has employed to try to boost the weak economy.
+&lt;/p&gt;
+              &lt;p&gt;
+The other half, a promise to keep short-term interest rates near zero well into the future, remains in place. The Fed reaffirmed in its statement Wednesday that it will "likely be appropriate" to keep rates near zero until a "considerable time" after the bond-buying program is phased out. Most investors place the timing for the first rate increase sometime in mid-2015, an expectation reflected in bond prices.
+&lt;/p&gt;
+              &lt;p&gt;
+The Fed's statement Wednesday acknowledged that inflation has risen toward the Fed's 2 percent target in recent months. Inflation, as measured by the commonly cited Consumer Price Index, has been at 2 percent or just above it for the past three months. It is just 1.5 percent in the Fed's preferred gauge, the personal consumption expenditures index with energy and food costs excluded, but is still rising.
+&lt;/p&gt;
+              &lt;p&gt;
+The Fed cautioned, however, against interpreting rising inflation as a reason for the Fed to tighten monetary conditions earlier than anticipated. The U.S. still suffers from "significant underutilization of labor resources," the statement reads.
+&lt;/p&gt;
+              &lt;p&gt;
+The unemployment rate has fallen by more than 1.5 percentage points to 6.1 percent since the Fed began its latest unconventional policies. While economic output has lagged the improvement in labor markets, declining in the first quarter 2.1 percent, the Bureau of Economic Analysis reported Wednesday that gross domestic product grew at a 4 percent pace in the second quarter.
+&lt;/p&gt;
+              &lt;p&gt;
+That was an improvement that Chairwoman Janet Yellen and others had anticipated in continuing to taper the bond purchases. In an appearance before Congress earlier in July, Yellen said that the first GDP decline "appears to have resulted mostly from transitory factors, and a number of recent indicators of production and spending suggest that growth rebounded in the second quarter."
+&lt;/p&gt;
+              &lt;p&gt;
+One member of the Fed's monetary policy committee, Federal Reserve Bank of Philadelphia President Charles Plosser, voted against Wednesday's decision. He disagreed with the language promising low rates for a "considerable time" after the end of the asset purchases, according to the statement, on the grounds that it commits the central bank to a time frame and "does not reflect the considerable economic progress that has been made" toward the Fed's stated goals.
+&lt;/p&gt;
+              &lt;p&gt;
+Credit: Joseph Lawler, Economic Correspondent
+&lt;/p&gt;
+            &lt;/body&gt;
+          &lt;/html&gt;
+</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Washington Examiner</Title>
+         <MpubId>52617</MpubId>
+         <SortTitle>Washington Examiner</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>WHEX</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>20050101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Clarity Media Group, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>555 17th Street</Address1>
+               <Address2>#700</Address2>
+               <City>DENVER</City>
+               <Province>CO</Province>
+               <ZipCode>80202</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>99410</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>70898.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Washington Examiner</Title>
+            <SortTitle>Washington Examiner</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>99410</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>70898.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 2008</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20080101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 30, 2014</AlphaDate>
+         <StartDate>2014-07-30</StartDate>
+         <EndDate>2014-07-30</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>89483552</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

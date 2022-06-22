@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1545387815</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>U.S. News -- Yellen to House GOP: Rate Rule a Bad Idea</Title>
+      </TitleAtt>
+      <NumericDate>2014-07-17</NumericDate>
+      <StartDate>2014-07-17</StartDate>
+      <EndDate>2014-07-17</EndDate>
+      <AlphaDate>Jul 17, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language>       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>(c) 2014 Dow Jones &amp; Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.2</StartPage>
+         <Pagination>A.2</Pagination>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>3374764271</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>89083592</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>WSJ</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="ADM">
+            <PublisherXID>DWJNJ000000020140717ea7h0002q</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1790</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>Pedro Nicolaci da Costa</DisplayForm>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>Pedro Nicolaci da Costa</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Leubsdorf, Ben</NormalizedDisplayForm>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Leubsdorf</LastName>
+               </LastNameAtt>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ben</FirstName>
+               </FirstNameAtt>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>Ben Leubsdorf</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="NA" PndxHeader="true">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>House of Representatives-Financial Services, Committee on</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="ABI" PndxHeader="true">         
+            <ClassCode>9190</ClassCode>
+            <ClassExpansion>United States</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="ABI" PndxHeader="true">         
+            <ClassCode>4320</ClassCode>
+            <ClassExpansion>Legislation</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="ABI" PndxHeader="true">         
+            <ClassCode>1120</ClassCode>
+            <ClassExpansion>Economic policy &amp; planning</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>92113</ClassCode>
+            <ClassExpansion>Public Finance Activities</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>52111</ClassCode>
+            <ClassExpansion>Monetary Authorities-Central Bank</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>92112</ClassCode>
+            <ClassExpansion>Legislative Bodies</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="ABI" TermVocab="PQSUBJ" PndxHeader="true">
+            <GenSubjValue>Congressional hearings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" TermVocab="PQSUBJ" PndxHeader="true">
+            <GenSubjValue>Rules</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" TermVocab="PQSUBJ" PndxHeader="true">
+            <GenSubjValue>Federal legislation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Federal Reserve monetary policy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Interest rates</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Congressional committees</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="ABI" TermVocab="GEOG" PndxHeader="true">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="NA" TermVocab="PERS" PndxHeader="true">
+            <Personal>Yellen, Janet L</Personal>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Editorial(ECMS)" WordCount="31">
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The House bill would require the Fed to adopt a mathematical formula for determining the appropriate level for its benchmark short-term interest rate, which influences other borrowing costs across the economy.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /users/z/azastrow/pqd/sis/gs40/RCS/gs51.xslt,v 2.1 2014/01/21 18:05:18 azastrow Exp $</MappingVersion>
+         <CreatedBy>OODS Backfile</CreatedBy>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="331" HTMLContent="true">&lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;Federal Reserve Chairwoman Janet Yellen pushed back against House Republicans' proposal to require the central bank to adopt a formal, mathematical rule to guide its interest-rate decisions.&lt;/p&gt;              &lt;p&gt;Ms. Yellen, responding to some of the toughest questioning she has faced on Capitol Hill since becoming the Fed's leader in February, said provisions in a recently introduced House bill would lead to greater political meddling in the Fed's affairs, curtailing its independence and constraining the ability of policy makers to manage crises.&lt;/p&gt;              &lt;p&gt;"It would be a grave mistake for the Fed to commit to conduct monetary policy according to a mathematical rule," Ms. Yellen told the House Financial Services Committee on Wednesday, amplifying her message in testimony to the Senate Banking Committee a day earlier.&lt;/p&gt;              &lt;p&gt;The House bill would require the Fed to adopt a mathematical formula for determining the appropriate level for its benchmark short-term interest rate, which influences other borrowing costs across the economy. The bill's proponents cite as an example the so-called Taylor rule, devised by Stanford University economics professor John Taylor, which calculates the ideal level of the rate based on changes in several economic variables.&lt;/p&gt;              &lt;p&gt;Ms. Yellen defended the Fed's position of holding interest rates lower than such a rule would prescribe, saying, "It is utterly necessary for us to provide more monetary-policy accommodation than those simple rules would have suggested."&lt;/p&gt;              &lt;p&gt;Several GOP lawmakers challenged her. "The overwhelming weight of evidence is that monetary policy is at its best in maintaining stable prices and maximum employment when it follows a clear, predictable monetary policy rule," said committee Chairman Jeb Hensarling (R., Texas).&lt;/p&gt;              &lt;p&gt;The debate comes as Fed officials are considering when to start raising interest rates. They have held their benchmark rate near zero since late 2008 to boost economic growth. Mr. Taylor, who testified in favor of the bill at a House committee hearing last week, has said his rule indicates the rate should be above 1%.&lt;/p&gt;              &lt;p&gt;Credit: By Pedro Nicolaci da Costa and Ben Leubsdorf&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 17, 2014</AlphaDate>
+         <StartDate>2014-07-17</StartDate>
+         <EndDate>2014-07-17</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>89083592</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

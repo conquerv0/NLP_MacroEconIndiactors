@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2123327034</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="ECMS">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Always Tackling 'The Hard Problem'</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Arts and Leisure Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2018-10-21</NumericDate>
+      <StartDate>2018-10-21</StartDate>
+      <EndDate>2018-10-21</EndDate>
+      <AlphaDate>Oct 21, 2018</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Oct 21, 2018</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>AR.4</StartPage>
+         <Pagination>AR.4</Pagination>
+         <DocSection>AR</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>434825-20181021</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>434825-20181021</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Oct212018______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1360</LexileScore>
+      <Desk>Arts and Leisure Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Soloski, Alexis</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Alexis</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Alexis Soloski</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Soloski</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Alexis Soloski</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New York Times Co</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515112</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Lincoln Center for the Performing Arts</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Neurosciences</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Consciousness</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Theater</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Philosophy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Philosophers</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Stoppard, Tom</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1639" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Tom Stoppard isn't all that bright. This at least is what Tom Stoppard believes. He grumbles -- well, it's airier and more philosophical and much nicer than grumbling -- that critics of his early work used to ding him as "too clever by half."&lt;p&gt;"I always thought, 'I wish I were,"' he said. "In fact, I'm not clever enough."&lt;/p&gt;
+&lt;p&gt;Where does that leave the rest of us?&lt;/p&gt;
+&lt;p&gt;In a long career, 50 years and counting, Mr. Stoppard, 81, has written plays, radio plays and screenplays that have discoursed on everything from Dadaism to analytic philosophy to particle physics to early Pink Floyd. O.K., maybe not everything. But it's close. There's a killer section in "Arcadia" on comparative theories of landscape gardening.&lt;/p&gt;
+&lt;p&gt;Take his new play, "The Hard Problem," which begins previews Oct. 25 at the Mitzi E. Newhouse Theater, directed by Jack O'Brien ("The Coast of Utopia," "The Invention of Love"). In about an hour and a half, it somehow encompasses neuroscience, metaphysics, econometrics, philosophy of mind, social-exchange theory. Not to mention Pilates. It's also a mystery and a kind of love story and this being the theater, there is at least one dinner party that goes hopelessly, tipsily, smolderingly wrong.&lt;/p&gt;
+&lt;p&gt;I asked him if about an hour and a half was too short a time to contain all of that. "It may be too long," he said.&lt;/p&gt;
+&lt;p&gt;First seen in 2015 at the National Theater, "The Hard Problem" takes its title from a decisive neuroscience riddle: What is consciousness? In other words, how does a three-pound lump of dendrites and axons and sodium channels create a loving, sorrowing, self-knowing self? Show your work.&lt;/p&gt;
+&lt;p&gt;Here anyway was Mr. Stoppard's self on a recent weekday afternoon in a Lincoln Center lobby, all 6'1" of it elegantly folded into a cafe chair. He was casually dressed in a textured gray suit over an Indian block print shirt. A pair of jaunty red-and-white striped socks peeked out below. There were bags under his eyes that would crowd an overhead compartment, but he was still recognizable from that 1966 Lord Snowdon photograph of a young man trying to ride a wheelless bicycle.&lt;/p&gt;
+&lt;p&gt;His voice has a music that isn't quite English -- born in Czechoslovakia, he spent his early childhood in Singapore and India -- and his conversation is effortless, enthralling. If he didn't always answer the questions I'd asked, I didn't notice it until later. That's how thrall works, I guess. And just so I don't embarrass myself, let's let his longtime collaborator Mr. O'Brien say something: "He's one of the most seductive people I've ever been around. He's catnip to women."&lt;/p&gt;
+&lt;p&gt;Let's let Mr. O'Brien say something else: "Being with him is like being with a benign pachyderm who's terrified he's going to put his foot down and accidentally crush you with his intelligence."&lt;/p&gt;
+&lt;p&gt;I'd read a lot about consciousness in the weeks leading up to our talk and he told me, courteously, that I shouldn't have bothered. (I'm pretty sure I should have.) Everything I needed to understand the play was in the play, he said, and once I saw it, all of those headache-inducing pages on materialism and mysterianism and panpsychism (the idea that maybe consciousness is ubiquitous, that our cafe table might have feelings, too) would become clear. "You don't need to know anything except to keep your ears open and if possible, your brain awake," he said.&lt;/p&gt;
+&lt;p&gt;"The Hard Problem" probably began in the mid-90s when Mr. Stoppard read a debate between the philosopher John Searle (who receives a thanks in the published script) and the philosopher and cognitive scientist David J. Chalmers in The New York Review of Books, and clipped those articles out. He read a lot and he thought a lot and he came to realize that while most neuroscientists agree that the brain causes consciousness and that we'll know how once math and science progress far enough, that answer "rather skips over of how the trick is done," he said.&lt;/p&gt;
+&lt;p&gt;He prefers to believe in some immaterial element. It's a belief that many of his plays quietly promote, that there is something else -- call it love or grace or divinity -- that shapes our ends. It's the claim that Hilary (Adelaide Clemens), the young psychologist at the heart of "The Hard Problem" makes. "The God idea shoves itself to the front like a doctor at the scene of an accident, because when you come right down to it, the body is made of things, and things don't have thoughts," she says.&lt;/p&gt;
+&lt;p&gt;Plays do have thoughts, of course. Mr. Stoppard's plays are packed with them. Great plays have something more.&lt;/p&gt;
+&lt;p&gt;Mr. Stoppard is the rare playwright -- Shaw, Pirandello and Pinter are others -- to have earned his own adjective. Stoppardian works take clever, comic approaches to complex ideas. Mr. Stoppard didn't dispute this, though he called it "a slightly lazy way of summing me up." (He also made a self-effacing joke: "If I were called Jones, I don't think anyone would try to make an adjective out of it.")&lt;/p&gt;
+&lt;p&gt;That definition pinpoints what has long been Mr. Stoppard's problem -- not the hard problem, but a hard problem, at least as far as his critics are concerned: How to twine all that intellectual jaw-drop and Ping-Pong wordplay to story and character. How to write a play that not only makes us think, but also makes us feel.&lt;/p&gt;
+&lt;p&gt;It isn't easy. As Mr. Stoppard said, in conversation with his biographer, Hermione Lee, at the 92nd Street Y last month, "Inventing the story, having to invent the story from nothing -- you can do anything you want but you've got to invent it -- it's hard for me. It's very hard indeed."&lt;/p&gt;
+&lt;p&gt;Or as he said to me, "The whole difficulty of doing plays -- the reason one doesn't do two or three a year -- is this very thing of trying to subsume thought and calculation into the interior of, say, a love story or a story of triumph and failure."&lt;/p&gt;
+&lt;p&gt;He's managed it in several of his plays. "Arcadia," certainly. "The Real Thing," of course. "The Invention of Love" and "India Ink"? Why not. He thinks he came out on the right side in his last play, "Rock 'n' Roll."&lt;/p&gt;
+&lt;p&gt;Of all the reviews of it he read -- "I do read what's written about my plays. I don't really believe people who say they don't. I mean, I'm just too curious" -- the one he liked best was by a woman who said she'd cried on the way home. "That's a really, really nice thing to be told," he said.&lt;/p&gt;
+&lt;p&gt;What about "The Hard Problem"? When it played in London in 2015, critics were divided. Michael Billington wrote in The Guardian that "the competing arguments always have a strong emotional underpinning." In The New York Times Ben Brantley called it "the first work I have known from this ever-questing dramatist in which the ideas overwhelm the characters."&lt;/p&gt;
+&lt;p&gt;Reviews like that didn't come as a total surprise. "It didn't quite feel we'd gotten there," he said of the London production, directed by Nicholas Hytner. (It's also been done at the American Conservatory Theater, the Wilma Theater, Chicago's Court Theater; he skipped those reviews.) He's tinkered with the script, reversing the order of two halves of a scene, taking out lines he had been persuaded to put in.&lt;/p&gt;
+&lt;p&gt;Where does he hope to get to? Will this production, which opens Nov. 19, get there? Those were questions he didn't quite answer. But he did say that "nowadays, I really believe that a play is an emotional narrative which works on the audience's passions."&lt;/p&gt;
+&lt;p&gt;The director and the actors can help that work along. Tom Hollander, who played the lead role in last year's Broadway revival of Mr. Stoppard's "Travesties," remembered thinking "that we were trying to find the humanity sometimes between the lines." (Mr. Hollander was speaking by telephone on a break from shooting a detective series -- " a dark tale, a sad story" -- in Antwerp; he sounded glum that his character had so far survived.) He also confessed that he'd seen the "Hard Problem" in London and "didn't really get it."&lt;/p&gt;
+&lt;p&gt;Mr. O'Brien gets it. When the play was first offered to him, he read it and found it daunting, "a wall of thought," he said. He read it again. Then a third time. "And I was weeping at the end," he went on. "I was crying. And I thought, 'Oh there it is."'&lt;/p&gt;
+&lt;p&gt;His job, he said "is to get it to lead with its heart, rather than feeling you've taken a graduate course when you come out," he said.&lt;/p&gt;
+&lt;p&gt;He said he hoped he didn't mess it up, but he said it a lot more profanely.&lt;/p&gt;
+&lt;p&gt;When "The Hard Problem" had its premiere, it was Mr. Stoppard's first new play in nine years. He doesn't think it will be his last. He recently abandoned one drama after four pages -- "Just a kind of husband and wife conversation; it involved a robot" -- but now he is stuck into a new one. He'll finish it this year with any luck. He wouldn't say what it was about, what ideas it attacked, what theories. But he would say it told a story.&lt;/p&gt;
+&lt;p&gt;"An evening at the theater is an evening at a story," he said. "Pretty much all the time. Pretty much every time."&lt;/p&gt;
+&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;p&gt;Tom Stoppard at Lincoln Center, Which Is Presenting His Play "the Hard Problem." Below Left, Parth Thakerar, Left, and Anthony Calf in a London Production of the Play. Below Right, Mr. Stoppard, Left, in 1975, with the Actor John Wood Outside the Theater Where the Playwright's "Travesties" Opened On Broadway. (Photographs by Daniel Dorsa for the New York Times; Meyer Liebowitz/the New York Times; Johan Persson)&lt;/p&gt;
+&lt;/div&gt;&lt;/object&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 21, 2018</AlphaDate>
+         <StartDate>2018-10-21</StartDate>
+         <EndDate>2018-10-21</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Oct212018______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2046284852</GOID>
+   
+   <Obj>
+      <SourceRollupType>Web Resources</SourceRollupType>
+      <ObjectTypes>
+         <other>News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Getting There: Raising the bar for women in banking</Title>
+      </TitleAtt>
+      <NumericDate>2014-07-31</NumericDate>
+      <StartDate>2014-07-31</StartDate>
+      <EndDate>2014-07-31</EndDate>
+      <AlphaDate>Jul 31, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright POLITICO LLC Jul 31, 2014</CopyrightData>
+      </Copyright>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>PLTUPLTU0000014ea918df19a1eebf7adf1e0003</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1390</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Lee, MJ</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>MJ</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>MJ Lee</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lee</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>MJ Lee</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Women in banking</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Drucker, Peter F</Personal>
+         </Term>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Investment banking</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Massachusetts</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Yellen, Janet L</Personal>
+         </Term>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New York Stock Exchange--NYSE</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523210</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Byrne, Barbara</Personal>
+         </Term>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Mount Holyoke College</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Workplace diversity</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Maternity &amp; paternity leaves</GenSubjValue>
+         </GenSubjTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Lehman Brothers Holdings Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>551112</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1045" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt; &lt;p&gt;Barbara Byrne, one of the most accomplished and powerful women in the banking industry, has seen a lot in her more than 30 years on Wall Street. &lt;/p&gt; &lt;p&gt;But earlier this month, the vice chair of investment banking at Barclays had a rare first experience: She rang the opening bell at the New York Stock Exchange. &lt;/p&gt; &lt;p&gt;The 59-year-old banking veteran was there to launch the new Barclays Women in Leadership Index, which at its inception consisted of 85 companies that have either women CEOs or boards that are at least 25 percent female. The idea, Byrne said, is to create a kind of “social pressure” for companies to strive to be more inclusive of women in the workplace and empower female employees to rise through the ranks. &lt;/p&gt; &lt;p&gt;Companies will hopefully start saying, “I’d like to be in that index too. What does it take to be in that index?” Byrne said in a recent interview. “Peter Drucker once said, ‘What gets measured gets done,’ and it’s been my experience that when you set goals and you quantify them, that people tend to perform toward them.” &lt;/p&gt; &lt;p&gt;(Also on POLITICO: Play by play: Nichols, news &amp;amp; sports) &lt;/p&gt; &lt;p&gt;Byrne herself has set a high bar for what women can accomplish in the male-dominated world of banking. &lt;/p&gt; &lt;p&gt;In 2005, she became the first woman to earn the title of “vice chairman” at Lehman Brothers, where she worked for almost three decades before it collapsed in the 2008 financial crisis. When the firm was purchased by Barclays, Byrne transitioned over to the British bank. Her current position in New York makes her one of the most prominent women in an industry that she says she loves both for its intensity and innovation. &lt;/p&gt; &lt;p&gt;Though promotion of women on Wall Street has grown by leaps and bounds over the past several decades, Byrne recalls that it wasn’t always that way. &lt;/p&gt; &lt;p&gt;“I started in 1980 and started at a private investment bank at that point called Lehman Brothers Kuhn Loeb. There were seven first-year associates,” she said. “But of those seven first-year associates, two were women.” &lt;/p&gt; &lt;p&gt;(Also on POLITICO: Maya Wiley's push for civil rights) &lt;/p&gt; &lt;p&gt;Born in Holyoke, Massachusetts, and a graduate of Mount Holyoke College, Byrne says she would like to see more women be appointed to top finance-related government positions. In a recent interview, she discussed a range of issues including the changing gender landscape in the world of banking, the challenges and lessons of juggling motherhood and work, and advice she has for young women looking to make it on Wall Street. &lt;/p&gt; &lt;p&gt;&lt;i&gt;&lt;b&gt;Have Wall Street and the world of finance become more inclusive work environments for women over the past few decades?&lt;/b&gt;&lt;/i&gt; &lt;/p&gt; &lt;p&gt;“They certainly have strived to. It’s a very different world than it was in the 1980s in the world of finance today. There are women’s networks, there’s diversity initiatives, there’s awareness, there’s intent. There are maternity leave programs that didn’t exist in the ’80s.” &lt;/p&gt; &lt;p&gt;“There are many more attempts on the part of the industry, which is dominated at the very top by men, to actually create those opportunities and parts of the financial services sector have a tremendous number of women.” &lt;/p&gt; &lt;p&gt;&lt;i&gt;&lt;b&gt;Do you think it’s easier now to be a mother of four and work on Wall Street than it was 30 years ago?&lt;/b&gt;&lt;/i&gt; &lt;/p&gt; &lt;p&gt;“Yes, yes, absolutely. The industry — it had some Wild West qualities in the 1980s.” &lt;/p&gt; &lt;p&gt;&lt;i&gt;&lt;b&gt;Has being a mother or wife helped you be better at your job?&lt;/b&gt;&lt;/i&gt; &lt;/p&gt; &lt;p&gt;“Absolutely. My husband and I have four children, ranging now in age from 19 to 26. And when you have four children and you’re married and you’re doing this type of job, you’re in a marriage that is very — you’re partners. You’re working together to accomplish a variety of things, and you’re used to dealing with — I’ll be honest — a lot of chaos. And you have to be pretty organized, you have to be flexible, and you have to be patient — and you have to be caring. &lt;/p&gt; &lt;p&gt;(Also on POLITICO: Rogers: Pay equity will take a while) &lt;/p&gt; &lt;p&gt;“And all of those traits are pretty important if you work with clients daily and with people daily — to be mindful that you’re human first and then you’re doing your job at the same time. &lt;/p&gt; &lt;p&gt;“And you build teams, and women are quite good at this. How did I do four pregnancies and take full maternity leave and still have account coverage? I did not call in everyday. I did not do that. I set up teams ahead of time and trusted those teams to carry those accounts. And so I came back and plugged myself back into them.” &lt;/p&gt; &lt;p&gt;&lt;i&gt;&lt;b&gt;What advice do you give to young women who want to work in finance?&lt;/b&gt;&lt;/i&gt; &lt;/p&gt; &lt;p&gt;“To make sure you really like what you’re doing. … I advise them to build networks. Men oftentimes naturally do this and women need to build them out as well. And those networks for women need to include men and sponsors and people who want to help them. That’s the most critical element. To have this web around you. &lt;/p&gt; &lt;p&gt;“Because inevitably, whatever you’re doing, there will be ups, there will be downs, there will be challenges, there will be a crisis. … I used to always tell my teams that that was just a different invitation to yes. So if I got a no on the first request, you can reframe that. Let’s go back, let’s see if we can keep at that if we think it’s the right thing to do.” &lt;/p&gt; &lt;p&gt;&lt;i&gt;&lt;b&gt;When we last spoke, we discussed Janet Yellen’s nomination to be chair of the Federal Reserve. Is that enough, or do you think the government needs more women in leadership positions in finance?&lt;/b&gt;&lt;/i&gt; &lt;/p&gt; &lt;p&gt;“Women happen to be 50 percent of the population — it might even be closer to 51 percent. So I obviously believe I’d like to see greater representation of women in very senior positions.” &lt;/p&gt; &lt;p&gt;“Things are moving in the right direction, but it does at times seem to be slower. But every time you get a Janet Yellen or … Christine Lagarde, who’s obviously performing brilliantly in her position, people see the professional. They don’t see the woman. And that’s the way it should be.” &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Politico</Title>
+         <MpubId>2048519</MpubId>
+         <SortTitle>Politico</SortTitle>
+         <Qualifier>Arlington</Qualifier>
+         <Edition>U.S. edition</Edition>
+         <JournalCode>PLTU</JournalCode>
+         <SourceType>Blogs, Podcasts, &amp; Websites</SourceType>
+         <StartDate>20070101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>POLITICO LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>1100 Wilson Blvd</Address1>
+               <Address2>8th Floor</Address2>
+               <City>Arlington</City>
+               <Province>VA</Province>
+               <ZipCode>22209</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>www.politico.com</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>2048519</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>415137.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Political Science</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Politico</Title>
+            <SortTitle>Politico</SortTitle>
+            <Qualifier>Arlington</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>U.S. edition</Edition>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>2048519</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>415137.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 21, 2007</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20070121</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 31, 2014</AlphaDate>
+         <StartDate>2014-07-31</StartDate>
+         <EndDate>2014-07-31</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_2048519_Jul312014______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1549968105</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Bears Who Won Big During Finance Crisis Are Growling Again; Singer and Lippmann Are Among Hedge-Fund Managers Wary of the Potential for Prices to Fall</Title>
+      </TitleAtt>
+      <NumericDate>2014-07-31</NumericDate>
+      <StartDate>2014-07-31</StartDate>
+      <EndDate>2014-07-31</EndDate>
+      <AlphaDate>Jul 31, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language>       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>(c) 2014 Dow Jones &amp; Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+         <Pagination>n/a</Pagination>
+         <DocSection>Markets</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>3389044751</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>89408992</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>WSJO</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="ADM">
+            <PublisherXID>WSJOWSJO20140731000020140731ea7v006hh</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1540</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Copeland, Rob</NormalizedDisplayForm>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Copeland</LastName>
+               </LastNameAtt>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Rob</FirstName>
+               </FirstNameAtt>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>Rob Copeland</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="ABI" PndxHeader="true">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Deutsche Bank AG</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>522110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>551111</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="ABI" PndxHeader="true">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Goldman Sachs Group Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Deutsche Bank AG</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>DBK</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>202485</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>Germany</CompanyHQLocation>
+            <CompanyWebsite>https://www.db.com/company/index.htm</CompanyWebsite>
+            <CompanyStockExchange>XETRA</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Goldman Sachs Group Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>GS</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>91340</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>United States</CompanyHQLocation>
+            <CompanyWebsite>https://www.goldmansachs.com</CompanyWebsite>
+            <CompanyStockExchange>NYSE</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <GenSubjTerm TermSource="ABI" TermVocab="PQSUBJ" PndxHeader="true">
+            <GenSubjValue>Advisors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Investment advisors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Default</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Sovereign debt</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Junk bonds</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Hedge funds</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Housing prices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Mortgages</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" TermVocab="PQBUS">
+            <GenSubjValue>Investment bankers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Subprime lending</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Corporate debt</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Housing</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="ABI" TermVocab="GEOG" PndxHeader="true">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Editorial(ECMS)" WordCount="92">
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Mr. Birnbaum, who was grilled by Congress in 2010 for his subprime trades while at Goldman Sachs, has more than doubled his bets this year against junk bonds issued by low-rated U.S. companies, according to investor documents for his Tilden Park Capital Management LP hedge fund and people familiar with his thinking.  John Paulson, who famously earned $15 billion for his eponymous firm with bets against the subprime-mortgage market, is bullish on bank loans and mortgage-backed securities, as he has been for several years running, says a person familiar with the firm.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /users/z/azastrow/pqd/sis/gs40/RCS/gs51.xslt,v 2.1 2014/01/21 18:05:18 azastrow Exp $</MappingVersion>
+         <CreatedBy>OODS Backfile</CreatedBy>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1105" HTMLContent="true">&lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;Many of the Wall Street money managers who made billions by anticipating the U.S. housing bubble see more trouble on the horizon.&lt;/p&gt;              &lt;p&gt;Unlike before the crisis, when those traders were mostly united against subprime mortgages, the wagers vary this time. Some are against U.S. junk bonds, while others are targeting European sovereign debt.&lt;/p&gt;              &lt;p&gt;The warnings come from hedge-fund managers including Joshua Birnbaum and Greg Lippmann, who rose to prominence when trading for Goldman Sachs Group Inc. and Deutsche Bank AG, respectively.&lt;/p&gt;              &lt;p&gt;The moves mark the first time since the crisis that most of these investors, who generated big profits after the downturn riding the global economic recovery, have begun to turn bearish again.&lt;/p&gt;              &lt;p&gt;"There's one thing for sure: History repeats itself, and this is starting to feel like a bubble," said Stuart Lippman, manager of a credit-markets-focused hedge fund at TIG Advisors LLC in New York. "We're building up to something."&lt;/p&gt;              &lt;p&gt;Whitebox Advisors LLC, a Minneapolis hedge-fund firm that anticipated the crisis, warning of an imminent credit-market panic as early as 2006, is close to starting a fund to wager against the debt of several European countries and the euro, according to a letter to investors viewed by The Wall Street Journal.&lt;/p&gt;              &lt;p&gt;The moves don't quite yet represent another "big short," the term writer Michael Lewis applied to precrisis bets against soaring housing prices. In most cases, the hedge funds say they are trying to capitalize on prices they think are far out of whack and that may suffer a correction over the coming months, rather than predicting widespread financial calamity.&lt;/p&gt;              &lt;p&gt;But the shift from some of Wall Street's most closely followed names shows growing worry about potential pockets of distress. Paul Singer, who oversees one of the world's biggest hedge-fund firms, $25 billion Elliott Management Corp., this week told investors that many markets could turn south with "head-spinning abruptness and shocking intensity."&lt;/p&gt;              &lt;p&gt;The fears come after years of low interest rates that have encouraged investors of all sizes to pile into junk bonds and other relatively risky areas in search of yield.&lt;/p&gt;              &lt;p&gt;If prices drop, it could hurt small investors who have bought company debt to make up for paltry returns on U.S. Treasury bonds. Demand for junk bonds has skyrocketed in recent years, driving up prices and pushing yields to the lowest level on record. Yields fall as prices rise.&lt;/p&gt;              &lt;p&gt;Relative calm across much of Europe has benefited debt issued by countries such as Italy and Spain, with many traders shrugging off prior worries of a euro-zone crisis.&lt;/p&gt;              &lt;p&gt;But some cracks are starting to show: High-yield bonds in July suffered their biggest price declines in over a year, as lofty valuations and concerns about the potential for interest-rate increases drove a flight from funds that hold riskier debt. Federal Reserve Chairwoman Janet Yellen has said the U.S. central bank is keeping a close eye on potential bubbles in areas like corporate debt and leveraged loans.&lt;/p&gt;              &lt;p&gt;Mr. Lippmann, who at Deutsche Bank placed bets against crisis-era mortgages, is among those who think trouble spots may be forming. He started his own hedge fund, LibreMax Partners LP, in 2010 and is buying credit-default swaps on corporate debt, people familiar with the investments said. A proxy for shorting, or betting against, the debt, the swaps are considered a cheap form of insurance against default, with potentially large payouts in the event of a swoon. LibreMax has made money the past 12 months in a row.&lt;/p&gt;              &lt;p&gt;Mr. Birnbaum, who was grilled by Congress in 2010 for his subprime trades while at Goldman Sachs, has more than doubled his bets this year against junk bonds issued by low-rated U.S. companies, according to investor documents for his Tilden Park Capital Management LP hedge fund and people familiar with his thinking. His bearish positions total about $4 billion.&lt;/p&gt;              &lt;p&gt;Apollo Global Management LLC, the $159 billion private-equity giant, also recently rolled out a fund to bet against junk debt, said people familiar with the matter.&lt;/p&gt;              &lt;p&gt;Most of the investors are placing targeted bets that aren't necessarily bearish on the broader economy. Mr. Birnbaum, for example, is sticking with nearly $3 billion in bullish positions in residential-housing bonds, and he isn't forecasting another wholesale collapse, according to a person familiar with his thinking.&lt;/p&gt;              &lt;p&gt;Tilden Park, which Mr. Birnbaum started at the beginning of 2011, has lost money in only two months since then, investor documents show.&lt;/p&gt;              &lt;p&gt;One of the biggest names to predict the previous financial crisis remains relatively sanguine.&lt;/p&gt;              &lt;p&gt;John Paulson, who famously earned $15 billion for his eponymous firm with bets against the subprime-mortgage market, is bullish on bank loans and mortgage-backed securities, as he has been for several years running, says a person familiar with the firm. Paulson &amp;amp; Co.'s main credit fund is up more than 8% this year.&lt;/p&gt;              &lt;p&gt;Others are more fearful.&lt;/p&gt;              &lt;p&gt;Paul Twitchell, a top executive at Whitebox, this week described European sovereign debt as a "deep, yawning chasm." The firm is shorting European sovereign debt, particularly that of France and Spain, nearly a decade after spotting the overheated U.S. housing market.&lt;/p&gt;              &lt;p&gt;"We are not undertaking this trade because we are unrivaled experts in a particular field, in this case the finer points of international debt and currencies," Mr. Twitchell wrote in a letter to investors viewed by The Wall Street Journal. "We are undertaking it because we think the mispricing is almost painfully obvious."&lt;/p&gt;              &lt;p&gt;The bets against certain securities are fraught with risk. Whitebox, founded in 2000 by former options trader Andrew Redleaf, told investors that the bearish positions would be expected to lose money unless a correction comes, though it aims to partially make up for the losses by buying relatively stable U.S. debt.&lt;/p&gt;              &lt;p&gt;"Shorting credit is extremely difficult, and it rarely works," said Michael Lewitt, who has run a credit-focused hedge fund since 1991. If you get the timing wrong, you could "be carried out in a box," he said, in part because even weak companies and countries can stay afloat for many years without defaulting.&lt;/p&gt;              &lt;p&gt;But hedge-fund managers aren't the only ones raising warning flags about credit markets.&lt;/p&gt;              &lt;p&gt;Douglas Peterson, chief executive of McGraw Hill Financial Inc., which owns Standard &amp;amp; Poor's Ratings Services, this week noted the "risk" of investors continuing to pay high prices for low-rated bonds.&lt;/p&gt;              &lt;p&gt;"Later on, let's make sure if something goes wrong they're not blaming a ratings agency," he said on a quarterly earnings call.&lt;/p&gt;              &lt;p&gt;Other hedge-fund firms currently building up bearish credit positions include Fir Tree Inc. and Carlyle Group LP's Claren Road Asset Management LLC unit, according to people familiar with the firms.&lt;/p&gt;              &lt;p&gt;Chris Dieterich contributed to this article.&lt;/p&gt;              &lt;p&gt;Credit: By Rob Copeland&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 31, 2014</AlphaDate>
+         <StartDate>2014-07-31</StartDate>
+         <EndDate>2014-07-31</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>89408992</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

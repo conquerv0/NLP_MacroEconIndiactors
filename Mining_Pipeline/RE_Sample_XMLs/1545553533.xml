@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1545553533</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt>
+         <Title>Yellen fights Republicans to keep Fed independent</Title>
+      </TitleAtt>
+      <SubTitleAtt>
+         <SubTitle>Chief condemns proposal to establish firm rules to dictate monetary policy</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2014-07-18</NumericDate>
+      <StartDate>2014-07-18</StartDate>
+      <EndDate>2014-07-18</EndDate>
+      <AlphaDate>Jul 18, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language>       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright International New York Times Jul 18, 2014</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>17</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>3375271681</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>89084262</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>34401</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>INH</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="DTI">
+            <PublisherXID>INHTINHT201407181797860</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1530</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Appelbaum, Binyamin</NormalizedDisplayForm>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Appelbaum</LastName>
+               </LastNameAtt>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Binyamin</FirstName>
+               </FirstNameAtt>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>BINYAMIN APPELBAUM</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="ABI" PndxHeader="true">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Federal Reserve Board</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921130</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanySICAtt>
+               <CompanySIC>9300</CompanySIC>
+            </CompanySICAtt>
+         </CompanyTerm>
+         <Term TermSource="Editorial" TermVocab="PERS">
+            <Personal>Yellen, Janet L</Personal>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium WordCount="173">
+            <AbsText HTMLContent="true">          &lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;They emphasized that the legislation did not specify a particular rule -- it simply told the Fed to pick one. The committee's chairman, Jeb Hensarling, a Texas Republican, sharply criticized what he described as "howling protests and apocalyptic visions from my Democratic colleagues," calling them "apologists for the status quo."&lt;/p&gt;              &lt;p&gt;"The Fed can set any rule it wishes," Mr. Hensarling said. "It can change the rule any time it wishes. It can deviate from the rule any time it wishes. It simply has to report and explain this to the rest of us. That's what transparency and accountability are all about."&lt;/p&gt;              &lt;p&gt;Some Fed officials and economists say that is not soon enough. Richard W. Fisher, president of the Federal Reserve Bank of Dallas, said on Wednesday that the Fed should start raising rates early next year. "We are at risk of doing what the Fed has too often done: overstaying our welcome by staying too loose too long," he said. "I believe the time to dilute the punch is close upon us."&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /builds/sis990002/sis/gs40/RCS/gs51.xslt,v 2.5 2015/12/02 19:41:05 azastrow Exp $</MappingVersion>
+         <CreatedBy>OODS Backfile</CreatedBy>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="766" HTMLContent="true">&lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;Janet L. Yellen, the Federal Reserve chairwoman, testified that a Republican proposal would undermine the central bank's independence in monetary policy.&lt;/p&gt;              &lt;p&gt;The chairwoman of the Federal Reserve, Janet L. Yellen, says it would be a "grave mistake" for Congress to adopt legislation proposed by House Republicans to constrain the Fed's management of monetary policy.&lt;/p&gt;              &lt;p&gt;Ms. Yellen and Republican lawmakers traded strong words on Wednesday at a testy hearing before the House Financial Services Committee that focused on a bill that would require the Fed to publish a set of rules for raising and lowering interest rates.&lt;/p&gt;              &lt;p&gt;Ms. Yellen said such a rule would impair the Fed's ability to manage the economy, even inhibiting its ability to respond to financial crises. It "would essentially undermine central bank independence," she said.&lt;/p&gt;              &lt;p&gt;Republicans criticized what they described as an alarmist response by Ms. Yellen and Democrats to a proposal that they said would do nothing more than modestly increase the Fed's accountability by requiring greater transparency.&lt;/p&gt;              &lt;p&gt;They emphasized that the legislation did not specify a particular rule -- it simply told the Fed to pick one. The committee's chairman, Jeb Hensarling, a Texas Republican, sharply criticized what he described as "howling protests and apocalyptic visions from my Democratic colleagues," calling them "apologists for the status quo."&lt;/p&gt;              &lt;p&gt;"The Fed can set any rule it wishes," Mr. Hensarling said. "It can change the rule any time it wishes. It can deviate from the rule any time it wishes. It simply has to report and explain this to the rest of us. That's what transparency and accountability are all about."&lt;/p&gt;              &lt;p&gt;The sparring largely overshadowed questions about the current course of Fed policy, in the face of mounting evidence that the economy has recovered from a rocky winter.&lt;/p&gt;              &lt;p&gt;The Fed's "beige book,"  an anthology of economic impressions gathered by its regional banks and released two weeks before meetings of the Federal Open Market Committee, reported that growth continued at a "modest to moderate pace" throughout the country.&lt;/p&gt;              &lt;p&gt;The report was consistent with recent data showing stronger job growth and improvements in manufacturing activity. On Wednesday, the Fed reported that manufacturing output increased 0.1 percent in June, a modest increase that capped a strong quarter during which factory production advanced at an annual rate of 6.7 percent. &lt;/p&gt;              &lt;p&gt;Another report, from the Labor Department, found producer prices rebounding 0.4 percent last month after a decline of 0.2 percent in May, also showing signs of a healthier manufacturing sector. The government will publish an initial estimate of second-quarter economic activity at the end of the month.&lt;/p&gt;              &lt;p&gt;The evidence of faster growth has revived concerns that the Fed will need to move more quickly. The central bank plans to end the expansion of its bond holdings in October. Ms. Yellen did not give a direct answer on Wednesday to questions about how soon the Fed will begin to raise its key short-term gauge from its current rate near zero, but she did note that most economists expected the Fed to act in the third quarter of 2015.&lt;/p&gt;              &lt;p&gt;Some Fed officials and economists say that is not soon enough. Richard W. Fisher, president of the Federal Reserve Bank of Dallas, said on Wednesday that the Fed should start raising rates early next year. "We are at risk of doing what the Fed has too often done: overstaying our welcome by staying too loose too long," he said. "I believe the time to dilute the punch is close upon us."&lt;/p&gt;              &lt;p&gt;James Bullard, the president of the Federal Reserve Bank of St. Louis, has also warned in recent weeks that he now expects inflation will rise above the Fed's target next year.&lt;/p&gt;              &lt;p&gt;Ms. Yellen has largely played down such concerns, describing inflation as muted and unlikely to rebound strongly. She remained primarily concerned about reducing unemployment and expediting the incomplete recovery.&lt;/p&gt;              &lt;p&gt;Citing "substantial headwinds" impeding growth, she said, "until they are completely gone, it calls for an accommodative monetary policy."&lt;/p&gt;              &lt;p&gt;Democrats rallied to Ms. Yellen's defense in opposition to the rule proposed by Republicans, saying that Congress already had sufficient oversight of monetary policy.  They also urged Ms. Yellen to persist in holding down interest rates.&lt;/p&gt;              &lt;p&gt;"The economy is worse than your statement indicates," Representative Brad Sherman, a California Democrat, told Ms. Yellen. &lt;/p&gt;              &lt;p&gt;"There isn't a person in this room who has waxed eloquently about how everything's going spectacularly in their district," he added. "And many, many members have told me and spoken about how, in a very large percentage of this country, we're still in recession."&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>International New York Times</Title>
+         <MpubId>45131</MpubId>
+         <SortTitle>International New York Times</SortTitle>
+         <Qualifier>Paris</Qualifier>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>20161011</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="ISSN">
+               <Name>22699740</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60142.01</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--France</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The New York Times</Title>
+            <SortTitle>New York Times The</SortTitle>
+            <Qualifier>New York</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>International edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>34401</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>24747149</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60142.02</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>New York Herald Tribune</Title>
+               <SortTitle>New York Herald Tribune</SortTitle>
+               <Qualifier>Paris</Qualifier>
+               <EndIssueDate>19661205</EndIssueDate>
+               <Edition>European ed.</Edition>
+               <CatalogNum>60142.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>International Herald Tribune</Title>
+               <SortTitle>International Herald Tribune</SortTitle>
+               <Qualifier>Paris</Qualifier>
+               <EndIssueDate>20131014</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>02948052</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60142.00</CatalogNum>
+            </History>
+            <History>
+               <Title>International New York Times</Title>
+               <SortTitle>International New York Times</SortTitle>
+               <Qualifier>Paris</Qualifier>
+               <EndIssueDate>20161011</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>22699740</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60142.01</CatalogNum>
+            </History>
+            <History>
+               <Title>New York Herald</Title>
+               <SortTitle>New York Herald</SortTitle>
+               <Qualifier>Paris</Qualifier>
+               <EndIssueDate>19350831</EndIssueDate>
+               <Edition>European ed.</Edition>
+               <CatalogNum>60142.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>New York Herald Tribune International, the Washington Post</Title>
+               <SortTitle>New York Herald Tribune International, the Washington Post</SortTitle>
+               <Qualifier>Paris</Qualifier>
+               <EndIssueDate>19670521</EndIssueDate>
+               <CatalogNum>60142.C0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Aug 1, 1992</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19920801</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 18, 2014</AlphaDate>
+         <StartDate>2014-07-18</StartDate>
+         <EndDate>2014-07-18</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>89084262</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1546074706</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">Brief</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt>
+         <Title>Fed may move 'sooner' on rates</Title>
+      </TitleAtt>
+      <NumericDate>2014-07-18</NumericDate>
+      <StartDate>2014-07-18</StartDate>
+      <EndDate>2014-07-18</EndDate>
+      <AlphaDate>Jul 18, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>(Copyright (c) 2014 Postmedia Network Inc. All rights reserved.)</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.2</StartPage>
+         <DocSection>Business</DocSection>
+         <ColumnHeader>News Makers</ColumnHeader>
+         <DocEdition>Early</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>3378139901</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>89166812</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>125</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>CALH</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="DTI">
+            <PublisherXID>FNPTCAHR201407180063</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1450</LexileScore>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /users/z/azastrow/pqd/sis/gs40/RCS/gs51.xslt,v 2.1 2014/01/21 18:05:18 azastrow Exp $</MappingVersion>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="124" HTMLContent="true">&lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;The Federal Reserve may have to raise rates more quickly than planned as unemployment falls and inflation quickens, said James Bullard, president of the St. Louis Fed.  &lt;/p&gt;              &lt;p&gt;"If macroeconomic conditions continue to improve at the current pace, the normalization process may need to begin sooner rather than later," Bullard said.  &lt;/p&gt;              &lt;p&gt;He doesn't vote on monetary policy this year.  &lt;/p&gt;              &lt;p&gt;Fed Chair Janet Yellen told lawmakers yesterday the central bank plans will probably keep interest rates low for a "considerable period" after ending monthly bond purchases, which she said may be announced at an October policy meeting.&lt;/p&gt;              &lt;p&gt;Credit: Calgary Herald&lt;/p&gt;              &lt;div&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="pq_source" value="csx"/&gt;&lt;param name="pq_etype" value="41"/&gt;&lt;param name="mstar_entity_inline" value="N"/&gt;&lt;param name="mstar_entity_type" value="Illustration"/&gt;&lt;div class="Illustration_content"&gt;&lt;p&gt;James Bullard&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/div&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Calgary Herald</Title>
+         <MpubId>47083</MpubId>
+         <SortTitle>Calgary Herald</SortTitle>
+         <Qualifier>Calgary, Alta.</Qualifier>
+         <JournalCode>CALH</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19390101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Postmedia Network Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>365 Bloor St. East</Address1>
+               <City>Toronto</City>
+               <Province>Ontario</Province>
+               <ZipCode>M4W 3L4</ZipCode>
+               <Country>Canada</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>125</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>08281815</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>68846.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--Canada</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Calgary Herald</Title>
+            <SortTitle>Calgary Herald</SortTitle>
+            <Qualifier>Calgary, Alta.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>125</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>08281815</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>68846.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Calgary Daily Herald</Title>
+               <SortTitle>Calgary Daily Herald</SortTitle>
+               <Qualifier>Calgary, Alta.</Qualifier>
+               <EndIssueDate>18950214</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>08390568</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>68846.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Calgary Daily Herald</Title>
+               <SortTitle>Calgary Daily Herald The</SortTitle>
+               <Qualifier>Calgary, Alta.</Qualifier>
+               <EndIssueDate>19390211</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>08390584</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>68846.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Daily Herald</Title>
+               <SortTitle>Daily Herald The</SortTitle>
+               <Qualifier>Calgary, Alta.</Qualifier>
+               <EndIssueDate>19080710</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>08390576</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>68846.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>1</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 7, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19881207</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 18, 2014</AlphaDate>
+         <StartDate>2014-07-18</StartDate>
+         <EndDate>2014-07-18</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>89166812</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

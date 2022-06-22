@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1545554849</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>United States: U.S. stocks waver as Yellen testifies before Congress</Title>
+      </TitleAtt>
+      <NumericDate>2014-07-18</NumericDate>
+      <StartDate>2014-07-18</StartDate>
+      <EndDate>2014-07-18</EndDate>
+      <AlphaDate>Jul 18, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language>       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Thai News Service Group Jul 18, 2014</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+         <DocSection>Business News</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>3375280911</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>89090932</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>151928</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>SNWM</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="ADM">
+            <PublisherXID>SNWM_SNWM_20140718_tns1807212USUswaYtbC</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ" PndxHeader="true">
+            <GenSubjValue>Testimony</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Stock exchanges</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Gross Domestic Product--GDP</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" TermVocab="PQBUS">
+            <GenSubjValue>Banks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Interest rates</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" TermVocab="PQBUS">
+            <GenSubjValue>Economic growth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Dow Jones averages</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="ABI" TermVocab="GEOG" PndxHeader="true">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Editorial(ECMS)" WordCount="57">
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;On the economic front, manufacturing activity in the New York region improved significantly for a third consecutive month in July, with the Empire State manufacturing index rising to 25.6, the highest in more than four years.  [...]U.S. retail and food services sales rose 0.2 percent in June on a seasonally adjusted basis, said the U.S. Commerce Department.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /users/z/azastrow/pqd/sis/gs40/RCS/gs51.xslt,v 2.1 2014/01/21 18:05:18 azastrow Exp $</MappingVersion>
+         <CreatedBy>OODS Backfile</CreatedBy>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="435" HTMLContent="true">          &lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;U.S. stocks closed mixed after fluctuating between gains and losses Tuesday, as Federal Reserve Chair Janet Yellen in her testimony to Congress said stocks in some sectors appear stretched.&lt;/p&gt;              &lt;p&gt; The Dow Jones Industrial Average closed at 17,060.68 points, up 5.26 points, or 0.03 percent, after briefly hitting an all-time intraday high of 17,120.34 points in earlier session.&lt;/p&gt;              &lt;p&gt; The S&amp;amp;P 500 went down 3.82 points, or 0.19 percent, to 1,973.28. The Nasdaq Composite Index fell 24.03 points, or 0.54 percent, to 4,416.39.&lt;/p&gt;              &lt;p&gt; The market staged a volatile session as investors were trying to digest mixed comments by the Fed chief who expressed concerns about equity valuation in some sectors, while also signaling that the U.S. central bank would not be in a hurry to hike interest rates in her testimony to the Senate Banking Committee.&lt;/p&gt;              &lt;p&gt; She emphasized that the U.S. economy needs to be on solid trajectory before the Fed raises rates.&lt;/p&gt;              &lt;p&gt; A Fed report accompanying Yellen's testimony said that " valuation metrics in some sectors appear substantially stretched, particularly for smaller firms in the social media &amp;amp; biotech industries, despite notable downturn in equity prices for such firms early in the year."&lt;/p&gt;              &lt;p&gt; A pair of better-than-expected earnings reports from two bank giants, also Dow components, boosted market sentiment to some extent, which helped the blue-chip index recoup all earlier losses.&lt;/p&gt;              &lt;p&gt; J.P. Morgan Chase &amp;amp; Co. reported a net income for the second quarter of USD 6.0 billion, or USD 1.46 per share, both lower than those of the year-ago period, but they still beat market expectations.&lt;/p&gt;              &lt;p&gt; Goldman Sachs on Tuesday morning reported net revenues of USD 9.13 billion and net earnings of USD 2.04 billion, or USD 4.10 per diluted common share, for the second quarter. The results also topped analysts' forecast.&lt;/p&gt;              &lt;p&gt; On the economic front, manufacturing activity in the New York region improved significantly for a third consecutive month in July, with the Empire State manufacturing index rising to 25.6, the highest in more than four years.&lt;/p&gt;              &lt;p&gt; Moreover, U.S. retail and food services sales rose 0.2 percent in June on a seasonally adjusted basis, said the U.S. Commerce Department.&lt;/p&gt;              &lt;p&gt; U.S. business inventories, a key component of gross domestic product changes, rose 0.5 percent in May, the department said in a separate report. The reading was slightly below market consensus, but it still pointed to a pickup in the U.S. economy in the second quarter.&lt;/p&gt;              &lt;p&gt; In addition, U.S. import prices advanced 0.1 percent in June following a 0.3 percent rise in May, driven by higher fuel prices, while export prices decreased 0.4 percent in the past month, said the U.S. Labor Department. - PNA&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Asia News Monitor</Title>
+         <MpubId>656306</MpubId>
+         <SortTitle>Asia News Monitor</SortTitle>
+         <Qualifier>Bangkok</Qualifier>
+         <JournalCode>SNWM</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Thai News Service Group</PublisherName>
+            <PublisherAddress>
+               <Address1>83/276 Soi Sathorn 12</Address1>
+               <City>Bangkok</City>
+               <ZipCode>10500</ZipCode>
+               <Country>Thailand</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>151928</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>72496.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--Philippines</Subject>
+            <Subject>General Interest Periodicals--Vietnam</Subject>
+            <Subject>General Interest Periodicals--Thailand</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Asia News Monitor</Title>
+            <SortTitle>Asia News Monitor</SortTitle>
+            <Qualifier>Bangkok</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>151928</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>72496.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 30, 2008</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20080730</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 18, 2014</AlphaDate>
+         <StartDate>2014-07-18</StartDate>
+         <EndDate>2014-07-18</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>89090932</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1550795074</GOID>
+   
+   <Obj>
+      <SourceRollupType>Web Resources</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">Blogs</other>
+         <mstar>Blog</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Internet Content</ObjectRollupType>
+      <TitleAtt>
+         <Title>Fed more confident in job market but nods to pickup in inflation</Title>
+      </TitleAtt>
+      <NumericDate>2014-07-31</NumericDate>
+      <StartDate>2014-07-31</StartDate>
+      <EndDate>2014-07-31</EndDate>
+      <AlphaDate>Jul 31, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language>       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Jul 31, 2014</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+         <DocSection>Wonkblog</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>3391725961</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>89415462</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>199628</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>WPDG</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="ADM">
+            <PublisherXID>ICAWPDG_WPDG_20140731_WONKBLOGFMCIJMBNTPIINFLATION</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Mui, Ylan Q</NormalizedDisplayForm>
+               <LastNameAtt>
+                  <LastName>Mui</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt>
+                  <MiddleName>Q</MiddleName>
+               </MiddleNameAtt>
+               <FirstNameAtt>
+                  <FirstName>Ylan</FirstName>
+               </FirstNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ylan Q Mui</OriginalForm>
+               </OriginalFormAtt>
+               <FirstInitialsAtt>
+                  <FirstInitials>Y.</FirstInitials>
+               </FirstInitialsAtt>
+               <MiddleInitialsAtt>
+                  <MiddleInitials>Q.</MiddleInitials>
+               </MiddleInitialsAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /builds/sis990002/sis/gs40/RCS/gs51.xslt,v 2.5 2015/12/02 19:41:05 azastrow Exp $</MappingVersion>
+         <CreatedBy>OODS Backfile</CreatedBy>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="833" HTMLContent="true">&lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;The Federal Reserve on Wednesday expressed growing confidence in the health of America's job market and acknowledged that inflation is beginning to pick up.&lt;/p&gt;              &lt;p&gt;In a carefully worded statement, the central bank's top officials noted that unemployment has fallen but abandoned the caveat it had delivered in previous communication that the jobless rate remains elevated. Instead, the Fed said there remains a "significant underutilization of labor resources" -- a reference to the number of people who are underemployed.&lt;/p&gt;              &lt;p&gt;In addition, the Fed pointed out that inflation has moved "somewhat closer" to the central bank's target of 2 percent. For much of last year, officials worried that price increases were too low, raising the specter of a period of deflation. Now, the Fed said, the likelihood of that scenario has "diminished somewhat."&lt;/p&gt;              &lt;p&gt;The statement comes after government data released Wednesday morning shows the recovery expanded more rapidly than expected over the spring. The Commerce Department reported the economy grew at a 4 percent annual rate during the second quarter after shrinking about 2 percent last winter. Though the average pace of growth so far this year remains moderate, the stronger-than-expected pickup may be boosting the central bank's confidence in the durability of the recovery.&lt;/p&gt;              &lt;p&gt;The data "will not prompt the Fed to revise up its outlook, but it will make it more comfortable that its current outlook is right," wrote Roberto Perli, head of global monetary policy research at Cornerstone Macro, in a note to clients before the Fed's official statement was released.&lt;/p&gt;              &lt;p&gt;The central bank's deliberately bland language masks the vigorous debate both inside and outside the institution over how much progress the economy has made -- and how much of a difference the Fed can make.&lt;/p&gt;              &lt;p&gt;Officials voted Wednesday to reduce the massive bond-buying program designed to hold down long-term interest rates by another $10 billion next month to $25 billion, and they are expected to end the purchases altogether in October. But officials remain divided over when they should wait to raise their benchmark target for short-term rates, which have been at zero for the past six years.&lt;/p&gt;              &lt;p&gt;The timing depends on their assessment of the recovery and the role they believe the Fed should play in it. Chair Janet Yellen has repeatedly argued that low wage growth is a sign that the labor market remains weak. Millions of people are working part-time when they would prefer full-time jobs. The number of people who have been out of work for more than six months is above historical averages. Some workers have given up looking for a job at all and have dropped out of the labor force. Those factors suggest the Fed still has plenty of breathing room before it needs to raise interest rates and cool down the economy.&lt;/p&gt;              &lt;p&gt;But there are several indications that the labor market is nearly back to its pre-recession self. The number of people filing for unemployment benefits for the first time fell to the lowest level in eight years last week. The economy has regained the nearly 9 million jobs lost during the recession. Monthly job growth has averaged more than 200,000 positions for the past five months, the longest streak since the late 1990s. Some Fed officials and outside analysts believe these are signs that the Fed may not have as much time as it thinks -- or may, in fact, already be too late.&lt;/p&gt;              &lt;p&gt;Philadelphia Fed President Charles I. Plosser voted against the statement released Wednesday on the grounds that the Fed's commitment to waiting a "considerable time" before raising rates did not reflect the economy's progress. Dallas Fed President Richard W. Fisher, a frequent critic of the central bank's easy-money policy, approved the language but raised concerns about the Fed's stance in a speech earlier this month.&lt;/p&gt;              &lt;p&gt;"I believe we are at risk of doing what the Fed has too often done: overstaying our welcome by staying too loose too long," Fisher said in a speech in Los Angeles. "We now risk falling into the trap of fighting the last war rather than the present challenge. The economy is reaching our desired destination faster than we imagined."&lt;/p&gt;              &lt;p&gt;The central bank is still trying to reach consensus over more technical aspects of the process of raising rates, much less agree on when to execute that plan. Yellen has said a formal plan will be released later this year, and officials very likely hashed out more details during their two-day meeting in Washington.&lt;/p&gt;              &lt;p&gt;But for now, they stuck to a more familiar script. According to the official statement, the Fed will wait a "considerable time" after ending the bond purchases to raise the benchmark federal funds rate. It will review a wide range of data on the labor market, inflation and financial conditions to pinpoint the date of litoff. And it promised to take a "balanced approach" as it makes it decision, weighing its goals of both maximum employment and stable prices.&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Washington Post – Blogs</Title>
+         <MpubId>2027631</MpubId>
+         <SortTitle>Washington Post – Blogs</SortTitle>
+         <Qualifier>Washington</Qualifier>
+         <JournalCode>WPDG</JournalCode>
+         <SourceType>Blogs, Podcasts, &amp; Websites</SourceType>
+         <EndDate>20201231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>www.washingtonpost.com</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>199628</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>72664.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">N</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Washington Post – Blogs</Title>
+            <SortTitle>Washington Post – Blogs</SortTitle>
+            <Qualifier>Washington</Qualifier>
+            <EndIssueDate>20201231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>199628</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>72664.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 23, 2013</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20130723</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 31, 2014</AlphaDate>
+         <StartDate>2014-07-31</StartDate>
+         <EndDate>2014-07-31</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>89415462</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

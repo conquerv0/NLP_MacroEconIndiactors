@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>1549576638</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Liberals Love the 'One Percent'</Title>
+      </TitleAtt>
+      <NumericDate>2014-07-31</NumericDate>
+      <StartDate>2014-07-31</StartDate>
+      <EndDate>2014-07-31</EndDate>
+      <AlphaDate>Jul 31, 2014</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language>       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>(c) 2014 Dow Jones &amp; Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>13</StartPage>
+         <Pagination>13</Pagination>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>3388297991</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>89414162</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>33825</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>WSJE</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="ADM">
+            <PublisherXID>DWJNWSJE000020140731ea7v0000f</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Sharma, Ruchir</NormalizedDisplayForm>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Sharma</LastName>
+               </LastNameAtt>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ruchir</FirstName>
+               </FirstNameAtt>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>Ruchir Sharma</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>52111</ClassCode>
+            <ClassExpansion>Monetary Authorities-Central Bank</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Stock exchanges</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Monetary policy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Inflation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Central banks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Interest rates</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Consumer Price Index</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Economic conditions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Securities markets</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Recessions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Commodities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Wealth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Investments</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Editorial(ECMS)" WordCount="294">
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Federal Reserve Chair Janet Yellen has said the central bank's goal is "to help Main Street not Wall Street," and many liberal commentators seem convinced that she is advancing that goal. But talk to anyone on Wall Street. If they are being frank, they'll admit that the Fed's loose monetary policy has been one of the biggest contributors to their returns over the past five years. Unwittingly, it seems, liberals who support the Fed are defending policies that boost the wealth of the wealthy but do nothing to reduce inequality.&lt;/p&gt;              &lt;p&gt;This perverse outcome is not the Fed's intent. It has kept interest rates near zero in an effort to combat the great recession of 2008-09 and nurse the weak economy back to health. Many analysts will argue that the recovery might have been even worse without the Fed's efforts. Still, the U.S. economy has staged its weakest recovery since World War II, with output up a total of just 10 percentage points over the past five years. Meanwhile, the stock market has never been so high at this point in a recovery. This is the most powerful post-recession bull market in postwar history, with the stock market up by a record 135% over the past five years.&lt;/p&gt;              &lt;p&gt;There is a fundamental shift in the challenge facing central bankers, everywhere. Top Fed officials including former Chairman Ben Bernanke have argued that rising asset prices are less a risk than a plus, because the rising value of houses, stocks and bonds makes families feel wealthier, so they spend more and boost the economy. But monetary policy should encourage investments that will strengthen the economy and create jobs in the long term -- not conjure an illusory "wealth effect" that is for now lifting mainly the wealthy.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /users/z/azastrow/pqd/sis/gs40/RCS/gs51.xslt,v 2.1 2014/01/21 18:05:18 azastrow Exp $</MappingVersion>
+         <CreatedBy>OODS Backfile</CreatedBy>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="976" HTMLContent="true">          &lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;Federal Reserve Chair Janet Yellen has said the central bank's goal is "to help Main Street not Wall Street," and many liberal commentators seem convinced that she is advancing that goal. But talk to anyone on Wall Street. If they are being frank, they'll admit that the Fed's loose monetary policy has been one of the biggest contributors to their returns over the past five years. Unwittingly, it seems, liberals who support the Fed are defending policies that boost the wealth of the wealthy but do nothing to reduce inequality.&lt;/p&gt;              &lt;p&gt;This perverse outcome is not the Fed's intent. It has kept interest rates near zero in an effort to combat the great recession of 2008-09 and nurse the weak economy back to health. Many analysts will argue that the recovery might have been even worse without the Fed's efforts. Still, the U.S. economy has staged its weakest recovery since World War II, with output up a total of just 10 percentage points over the past five years. Meanwhile, the stock market has never been so high at this point in a recovery. This is the most powerful post-recession bull market in postwar history, with the stock market up by a record 135% over the past five years.&lt;/p&gt;              &lt;p&gt;The Fed can print as much money as it wants, but it can't control where it goes, and much of it is finding its way into financial assets. On many long-term metrics, the stock market is now at levels that fall within the top 10% of valuations recorded over the past 100 years. The rally in the fixed-income market too is reaching giddy proportions, particularly for high-yield junk bonds, which are up 150% since 2009.&lt;/p&gt;              &lt;p&gt;It's no secret who owns most of these assets. The wealthiest 1% of households, according to a study by Edward Wolff (National Bureau of Economic Research, 2012), now owns 50% of all financial wealth in the U.S., and the top 10% owns 91% of the wealth in stocks and mutual funds.&lt;/p&gt;              &lt;p&gt;Over the past decade, easy-money policies also have fueled the rise of an industry that transforms raw commodities -- from soybeans to steel and oil -- into financial products, such as exchange-traded funds, that can be traded like stocks. Hundreds of billions of dollars have poured into these products. In many cases, large investors hold the commodities in storage, driving up demand and the price.&lt;/p&gt;              &lt;p&gt;On average, prices for commodities from oil to coffee to eggs are up 40% since 2009, double the typical commodity-price rebound in postwar recoveries. Though rising prices for staples such as these are inconsequential expenses to the rich, they are burdens for the poor, who spend about 10% of their income on energy and a third of it on food. Meanwhile, since bottoming in 2011, median house prices have risen four times faster than incomes, putting homes out of reach for many first-time buyers.&lt;/p&gt;              &lt;p&gt;Leading Wall Street figures such as Stanley Druckenmiller and Seth Klarman are warning that the Fed is blowing dangerous asset-price bubbles. These warnings -- given political suspicion of the financial community -- seem only to confirm liberal faith in the Fed. Economists including Joseph Stiglitz and Brad DeLong cling to the hope that at least some of the easy money helps to create growth and jobs. Yet the abnormally low cost of capital is giving companies another incentive to invest in technologies that replace workers, rather than hiring more workers.&lt;/p&gt;              &lt;p&gt;Some liberals are skeptical even of the basic premise that easy money is fueling higher asset prices. As Paul Krugman put it, "for the most part" the money printed by the Fed is piling up in bank reserves and cash. While banks are generally reluctant to lend, the fact is that commercial and industrial loans in particular are increasing rapidly, and much of that credit is reportedly going to financial-engineering projects, like mergers and share buybacks, which do more to increase stock prices than to create economic growth.&lt;/p&gt;              &lt;p&gt;There is no doubt that easy money is boosting the stock market. Low interest rates are driving investors out of money-market funds and into stocks, while they also allow wealthy investors to borrow money cheaply to buy more stocks. In the U.S., margin debt has more than doubled in the past five years to a record $438 billion.&lt;/p&gt;              &lt;p&gt;Many liberal economists note that dire warnings of how the Fed's money printing would lead to runaway inflation have not come true. Overall consumer prices are indeed contained and the mandate of a central bank has traditionally been to control consumer prices. But that target is out of date. In a global economy, rising competition has a restraining effect on consumer prices because producers can shop around for the lowest-cost country in which to make goods like clothes or flat-screen TVs. The effect on asset prices is the opposite, as the supply of houses and stocks is relatively limited, and because demand is rising, as investors seek higher returns than the near-zero interest rates they can get at the bank. That is why investors are bidding up asset prices, even as consumer prices remain stable.&lt;/p&gt;              &lt;p&gt;There is a fundamental shift in the challenge facing central bankers, everywhere. Top Fed officials including former Chairman Ben Bernanke have argued that rising asset prices are less a risk than a plus, because the rising value of houses, stocks and bonds makes families feel wealthier, so they spend more and boost the economy. But monetary policy should encourage investments that will strengthen the economy and create jobs in the long term -- not conjure an illusory "wealth effect" that is for now lifting mainly the wealthy.&lt;/p&gt;              &lt;p&gt;---&lt;/p&gt;              &lt;p&gt;Mr. Sharma is head of emerging markets and global macro at Morgan Stanley Investment Management and the author of "Breakout Nations: In Pursuit of the Next Economic Miracles" (Norton, 2012).&lt;/p&gt;              &lt;p&gt;Credit: By Ruchir Sharma&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>45902</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>Brussels</Qualifier>
+         <Edition>Europe</Edition>
+         <JournalCode>WSJE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19830101</StartDate>
+         <EndDate>20171231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>33825</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>09219986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60627.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">N</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>Brussels</Qualifier>
+            <EndIssueDate>20171231</EndIssueDate>
+            <Edition>Europe</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>33825</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>09219986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60627.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1991</AlphaStartDate>
+            <AlphaEndDate>Sep 29, 2017</AlphaEndDate>
+            <NumericStartDate>19910102</NumericStartDate>
+            <NumericEndDate>20170929</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 31, 2014</AlphaDate>
+         <StartDate>2014-07-31</StartDate>
+         <EndDate>2014-07-31</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>89414162</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

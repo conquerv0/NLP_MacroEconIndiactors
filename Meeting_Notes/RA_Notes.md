@@ -3,13 +3,10 @@
 ### 1.1 Toolkit & Documentation
 
 > Query: Elastic Search, a SQL-like query tool
-
 1. Proquest TDM Account
-
 2. Text & Datamining tools. https://mdl.library.utoronto.ca/technology/text-and-data-mining-software/text-and-data-mining-tools-overview
 
    
-
 ### 1.2  VPN & Server Access
 
 > SSN: Public-Private Key
@@ -17,10 +14,13 @@
 1. VPN access
 2. Server
 
-### 1.3 Metadata Output
+### 1.3 Metadata Issues
 
 1. Store data in a CSV
 2. Update the info 
+
+> 6.22 Update: 
+1. Issues with "Terms": Store the whole terms for now in case the need for further processing arises. 
 
 ### 1.4 Metadata Search on Keywords
 
@@ -37,7 +37,6 @@
     - Subjectivity
     - Polarity
     - Overall Scores: Normalizing the scores over the sentences. 
-
 
 ## 2. Deployment on Server Environment
 

@@ -26,6 +26,10 @@
 1. Put in Printlocation Infomation, such as DocEdition, ColumnHeader, DocSection. [reference(1546074706)]
 2. For any missing metadata information, fill in NAs. 
 
+> 7.12 Update:
+1. `Extract_Meta`: Store every header in seperate pandas row, then 
+2. `Term_Info`: Maybe instead of collecting every information, store the information as a dictionary to retain the structure. 
+
 ### 1.4 Metadata Search on Keywords
 
 1. Running search based on keywords

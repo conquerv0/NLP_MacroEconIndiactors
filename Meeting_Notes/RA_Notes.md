@@ -22,6 +22,10 @@
 > 6.22 Update: 
 1. Issues with "Terms": Store the whole terms for now in case the need for further processing arises. 
 
+> 7.06 Update:
+1. Put in Printlocation Infomation, such as DocEdition, ColumnHeader, DocSection. [reference(1546074706)]
+2. For any missing metadata information, fill in NAs. 
+
 ### 1.4 Metadata Search on Keywords
 
 1. Running search based on keywords
@@ -41,6 +45,10 @@
 ## 2. Deployment on Server Environment
 
 > Standardize the extraction, cleaning, NER and sentiment analysis on the server to make sure no details are missed testing on the small dataset.
+1. Try to run `text_mining.ipynb` on TDM server. 
+2. Do a search to get what we already have. (Parameters: AN)
+
+
 
 ### 2.1 Testing the efficiency/complexity of Mining-Analysis
 

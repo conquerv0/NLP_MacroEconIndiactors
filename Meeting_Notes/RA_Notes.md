@@ -52,6 +52,11 @@
 1. Try to run `text_mining.ipynb` on TDM server. 
 2. Do a search to get what we already have. (Parameters: AN)
 
+July 27th Update: 
+1. Issues with missing packages (SpaCy and Textblob) on TDM
+2. Perform test with "Yellen (), Google (), Hitler (800k) ", Includes the Global News Stream and the Historical Newspaper. 
+3. Create a sentiment test comparison with different chairs of Federal Reserve, relating to the time period. 
+4. Create temporal sentiment analysis on `Google` . We can also make some comparison with another Internet Giant, `AltaVista` and `Yahoo` (which can provides sentimental analysis view during period of their competition). 
 
 
 ### 2.1 Testing the efficiency/complexity of Mining-Analysis

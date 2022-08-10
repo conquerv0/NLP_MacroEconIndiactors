@@ -1,5 +1,7 @@
 ## RA-Notes
 
+# Part I. Data Processing & Pipeline Setup
+
 ### 1.1 Toolkit & Documentation
 
 > Query: Elastic Search, a SQL-like query tool
@@ -46,20 +48,34 @@
     - Polarity
     - Overall Scores: Normalizing the scores over the sentences. 
 
-## 2. Deployment on Server Environment
+### 2.1 Deployment on Server Environment
 
 > Standardize the extraction, cleaning, NER and sentiment analysis on the server to make sure no details are missed testing on the small dataset.
 1. Try to run `text_mining.ipynb` on TDM server. 
 2. Do a search to get what we already have. (Parameters: AN)
 
-July 27th Update: 
+
+### 2.0 Testing the efficiency/complexity of Mining-Analysis
+
+1. Running this on a metadata search with 1-Month time span
+2. 
+
+# Part II. Analysis with Comparision of various Dataset
+
+### 1.1 General Direction
+> July 27th Update: 
 1. Issues with missing packages (SpaCy and Textblob) on TDM
 2. Perform test with "Yellen (), Google (), Hitler (800k) ", Includes the Global News Stream and the Historical Newspaper. 
 3. Create a sentiment test comparison with different chairs of Federal Reserve, relating to the time period. 
 4. Create temporal sentiment analysis on `Google` . We can also make some comparison with another Internet Giant, `AltaVista` and `Yahoo` (which can provides sentimental analysis view during period of their competition). 
 
+## 1.2. Next Step: (Aug 10th)
+> Further checking:
+1. Make sure that TDM recognize the exact context
+2. Sample some paper snippets in the dataset to make sure the mined result is not outside of our interest. (ex: 'google' being used as a verb rather than referring to the company. )
+3. There might be "migration" of a concept moving from sources to sources(ex: 'gay' was mainly in poetry 100 years ago, but now appear in motion pictures, law, newspaper, etc.)
 
-### 2.1 Testing the efficiency/complexity of Mining-Analysis
-
-1. Running this on a metadata search with 1-Month time span
-2. 
+> Further Analysis
+1. Run a `trend line` to demonstrate how the sentiment evolves overtime. 
+2. We can identify short term spikes in the time series. 
+3. Separate the data segment into country-based demographic so that we can identify difference in sentiment. 

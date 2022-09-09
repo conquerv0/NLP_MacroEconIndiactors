@@ -79,3 +79,17 @@
 1. Run a `trend line` to demonstrate how the sentiment evolves overtime. 
 2. We can identify short term spikes in the time series. 
 3. Separate the data segment into country-based demographic so that we can identify difference in sentiment. 
+
+## 1.3 Fall Update(Sep 9th):
+
+> Problem encountered:
+1. Datasets contain confounding variables, ex. Google was not exactly mentioned in terms of the company. (ProQuest indexed every 'Google' word mentioned as 'Google LLC')
+2. Continue trendline analysis in the internet company segments?
+
+> Potential Solution:
+1. Extract words to the left/right of the Company name to understand the contexts of the texts. (create a helper function that adjust this 'context_window_extraction'). 
+2. Establish baseline scripts so the module can be adapated to explore other topics. 
+
+> Potential exploration:
+1. Sentiments in geographic location
+2. Finding political affliation/endorsement with sentiment of the article. We can potentially build metrics evaluating these political dimensions in our analysis. 

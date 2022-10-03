@@ -93,3 +93,14 @@
 > Potential exploration:
 1. Sentiments in geographic location
 2. Finding political affliation/endorsement with sentiment of the article. We can potentially build metrics evaluating these political dimensions in our analysis. 
+
+## 1.4 Time Series
+
+1. Daily
+2. Monthly Data: Stock
+3. Quarter: Business Cycle
+4. Annual
+
+Notes: 
+1. Newspaper also provides a geography tags that can be traced back further along in the history. 
+2. Make sure to include the '0' in the time series, do not drop it.  

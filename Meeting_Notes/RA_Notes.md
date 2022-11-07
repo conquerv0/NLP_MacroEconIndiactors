@@ -104,3 +104,10 @@
 Notes: 
 1. Newspaper also provides a geography tags that can be traced back further along in the history. 
 2. Make sure to include the '0' in the time series, do not drop it.  
+
+# Function Header: The meta dataset should contain:
+# 1) Aricle Dataset: save the article scores, date, and GOID
+# 2) Sentence Dataset: save the sentence in a different dataset. For example, if google is mentioned in a datasets.
+# 3) Look at the article level dataset to trend. 
+# 4) Aggregate the datasets to a article. 
+# 5) Add a summary statistics (means, frequency, standard deviation at the monthly data level)

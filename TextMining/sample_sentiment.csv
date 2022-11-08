@@ -1,4 +1,4 @@
-,Sentence,Subjectivity Scores,Polarity Scores,Sentiment Assessments
+,Sentence,Subjectivity Score,Polarity Score,Sentiment Assessment
 0,"The Chinese citrus fly, <i>Bactrocera minax </i>(Enderlein), is a devastating citrus pest in Asia",0.6333333333333333,-0.06666666666666665,"[(['chinese'], 0.0, 0.0, None), (['fly'], 0.8, 0.9, None), (['devastating'], -1.0, 1.0, None)]"
 1," This univoltine insect enters obligatory pupal diapause in each generation, while little is known about the course and the molecular mechanisms of diapause",0.5,-0.1875,"[(['little'], -0.1875, 0.5, None)]"
 2," In this study, the course of diapause was determined by measuring the respiratory rate throughout the pupal stage",0.0,0.0,[]

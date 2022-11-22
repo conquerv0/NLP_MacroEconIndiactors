@@ -19,9 +19,9 @@
         - [ ]  Short trend report
 - [ ]  Quarter Sentiment Trend
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1decf11-eb02-46e3-a511-0ab0e0905b3e/Untitled.png)
+![Quarter_Mean](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1decf11-eb02-46e3-a511-0ab0e0905b3e/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bca79c2c-2899-4f3c-9a3b-02a756a681bd/Untitled.png)
+![Quarter_Std](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bca79c2c-2899-4f3c-9a3b-02a756a681bd/Untitled.png)
 
 ## Phase 2: Time Series: how sentiment at an article level change over time
 
